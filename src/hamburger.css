@@ -1,0 +1,203 @@
+/* Google Fonts Import Link */
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cutive+Mono&family=Gemunu+Libre:wght@200..800&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Signika+Negative&display=swap');
+
+.nav-links {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    padding: 15px 10px;
+    border-radius: 12px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+ul {
+    width: 95%;
+    margin: .5% 2.5%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    font-family: "Gemunu Libre", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: weight;
+    font-style: normal;
+}
+
+.logo {
+    height: 90%;
+    width: 50px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.nav-links li {
+    list-style: none;
+    margin: 0 12px;
+}
+
+.nav-links li a {
+    position: relative;
+    color: #333;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 6px 0;
+    text-decoration: none;
+}
+.combo-text{
+    font-size: 20px;
+    font-style: italic;
+}
+.nav-links li a:before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 3px;
+    width: 0%;
+    background: #040858;
+    border-radius: 12px;
+    transition: all 0.4s ease;
+}
+
+.nav-links li a:hover:before {
+    width: 100%;
+}
+
+.nav-links li.center a:before {
+    left: 50%;
+    transform: translateX(-50%);
+}
+
+.nav-links li.upward a:before {
+    width: 100%;
+    bottom: -5px;
+    opacity: 0;
+}
+
+.nav-links li.upward a:hover:before {
+    bottom: 0px;
+    opacity: 1;
+}
+
+.nav-links li.forward a:before {
+    width: 100%;
+    transform: scaleX(0);
+    transform-origin: right;
+    transition: transform 0.4s ease;
+}
+
+.nav-links li.forward a:hover:before {
+    transform: scaleX(1);
+    transform-origin: left;
+}
+
+.hamburger-menu {
+   
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #fff;
+    padding: 15px 10px;
+    border-radius: 12px;
+    
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.menu-icon {
+    font-size: 24px;
+    cursor: pointer;
+}
+
+/* Existing styles remain the same */
+@media only screen and (max-width: 1388px)
+{
+    .hamburger-menu {
+        position: fixed;
+        z-index: 4;
+        width: 91vw;
+        top: 1%;
+       
+    }
+    
+    #connect1{
+        margin: 0;
+        font-size: 14px;
+        color: rgb(0, 0, 0);
+        text-align: center;
+        outline: 2ps solid #040858;
+    }
+    .media{
+        width: 90%;
+        margin: auto;
+        display: flex;
+        justify-content: space-between;
+        border-radius: 5%;
+        padding: 5%;
+        background-color: rgb(242, 242, 242);
+        box-sizing: border-box;
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+
+
+.list-menu ul{
+    position: fixed;
+    top: 90px; /* Adjust according to your needs */
+    left: -2px;
+    width: 90%;
+    height: 82.2vh;
+    background:white;
+    padding: 15px 10px;
+    border-radius: 12px;
+    box-shadow: 0 5px 10px rgb(0, 0, 0);
+    list-style: none;
+    display: flex;
+    cursor: pointer;
+    flex-direction: column;
+   z-index: 9;
+  }
+#para{
+    font-size: large;
+    padding: 4px;
+    border-radius: 5px;
+}
+
+.list-menu li {
+   
+    padding: 10px;
+    font-size: 25px;
+    border: 2px solid rgb(229, 220, 220);
+    margin: 6px;
+}
+.list-menu p{
+   margin:0px 19px ;
+   padding: 4px;
+   
+    background-color: rgb(235, 235, 235);
+}
+
+.list-menu li a {
+    color: #333;
+    font-size: 20px;
+    font-weight: 500;
+    text-decoration: none;
+}
+
+.list-menu li a:hover {
+    color: #040858;
+}
+/* .media{
+    width: 90%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5%;
+    padding: 5%;
+    background-color: rgb(242, 242, 242);
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+} */
+}

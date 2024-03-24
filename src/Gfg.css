@@ -1,0 +1,113 @@
+
+@import url('https://fonts.googleapis.com/css?family=PT+Sans');
+@import url('https://fonts.googleapis.com/css2?family=Gemunu+Libre:wght@200..800&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Signika+Negative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Gemunu+Libre:wght@200..800&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Signika+Negative&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cutive+Mono&family=Gemunu+Libre:wght@200..800&family=Roboto+Condensed:ital,wght@0,100..900;1,100..900&family=Signika+Negative&display=swap');
+#heading{
+  text-align: center;
+  font-family: "Gemunu Libre", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  
+}
+.card{
+  font-family: "Cutive Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+  padding: auto;
+  width: 80%;
+  height: 50%;
+  background-color: rgb(88, 173, 173);
+  margin:  10px 10%;
+  border: 2px solid white;
+  overflow: auto;
+  color: rgb(2, 3, 3);
+ 
+}
+.container-App1{
+  margin: auto;
+  width: 80vw;
+  height: 50px;
+  position: relative;
+ top: 75px;
+}
+.flex{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  flex-direction: row;
+  gap: 6px;
+}
+.Topic{
+  width: 20%;
+  /* margin-left:15px ; */
+}
+.problemname-App1{
+  width: 60%;
+  
+}
+.topic-heading-App1{
+  text-align: center;
+  cursor: pointer;
+  height: 50px;
+  background-color: rgb(10, 147, 168);
+  font-size: 25px;
+  padding: 15px;
+  border-radius: 20px;
+  color: white;
+  
+}
+.insideTopic-App1{
+  padding: auto;
+  
+}
+.gfgimage{
+  width: 50px;
+height: 30px;
+cursor: pointer;
+border-radius: 7px;
+margin-left: 8px;
+margin-right: 8px;
+}
+.gfgimage1{
+  width: 60px;
+height: 30px;
+cursor: pointer;
+border-radius: 7px ;
+border-color: aliceblue;
+margin-left: 8px;
+}
+
+.card button{
+  background-color: rgb(49, 237, 237);
+  border: 1px solid rgb(23, 139, 255);
+}
+
+@media only screen and (max-width: 1380px)
+{
+  .topic-container-App1{
+   
+    /* width: 100vw; */
+  }
+  .topic-heading-App1{
+    /* width: 100vw; */
+    /* margin-left: -16px; */
+    /* margin: auto; */
+  }
+  .card{
+    /* width: 380px; */
+    width: 93vw;
+    /* width: 120%; */
+    margin-left: -30px;
+    font-size: 10px;
+    color: rgb(35, 41, 41);
+    
+  }
+  .card button{
+    background-color: rgb(49, 237, 237);
+    border: 1px solid rgb(23, 139, 255);
+  }
+
+}
+
