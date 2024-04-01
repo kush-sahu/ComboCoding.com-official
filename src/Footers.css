@@ -7,7 +7,7 @@
     padding: 10px;
     margin: 20px 0 ;
     top: 30%;
-    right: 0;
+    left: 0;
     position: fixed;
     flex-direction: column-reverse;
     height: 30%; 
@@ -23,9 +23,10 @@
     color: brown;
     text-align: center;
 }
-@media only screen and (max-width: 1388px)
+@media only screen and (max-width: 768px)
 {
     .media1{
        display: none;
+       
     }
 }

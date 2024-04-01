@@ -46,7 +46,7 @@ function Navbar() {
                     <li className="center"><Link to="/hackerrank">HackerRank</Link></li>
                     <li className="upward"><Link to="/codingninja">CodingNinja</Link></li>
                     <li className="forward"><Link to="/Gfg">GreekforGreks</Link></li>
-                    <li className="forward"><a href="https://" target="_blank" rel="noopener noreferrer">ComboCoding</a></li>
+                    {/* <li className="forward"><a href="https://" target="_blank" rel="noopener noreferrer">ComboCoding</a></li> */}
                 </ul>
             ) : (
                 <div className="hamburger-menu" onClick={toggleList}>
@@ -59,7 +59,7 @@ function Navbar() {
             {showList && (
                 <div className="list-menu">
                     <ul>
-                        <li onClick={closeList}><a href="https://www.combocoding.com" target="_blank" rel="noopener noreferrer">ComboCoding.com</a></li>
+                        {/* <li onClick={closeList}><a href="https://www.combocoding.com" target="_blank" rel="noopener noreferrer">ComboCoding.com</a></li> */}
                         <li onClick={closeList}><Link to="/leetcode">LeetCode</Link></li>
                         <li onClick={closeList}><Link to="/hackerrank">HackerRank</Link></li>
                         <li onClick={closeList}><Link to="/codingninja">CodingNinja</Link></li>
@@ -77,9 +77,9 @@ function Navbar() {
 
                         <div className='media'>
                         
-                            <a href="https://yourwebsite.com" target="_blank" rel="noopener noreferrer">
+                            {/* <a href="https://yourwebsite.com" target="_blank" rel="noopener noreferrer">
                                 <img className='logo' src={wp} alt="ComboCoding Logo" />
-                            </a>
+                            </a> */}
                             <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
                                 <img className='logo' src={linkedin} alt="ComboCoding LinkedIn Logo" />
                             </a>
