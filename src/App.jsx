@@ -51,7 +51,7 @@ function App() {
           <Route path="/codingninja" element={<CodingNinja />} />
           <Route path="/gfg" element={<Gfg />} />
           {/* Redirect root path to Gfg. No need for exact, as Routes chooses the first matching route */}
-          <Route path="/" element={<Navigate replace to="/gfg" />} />
+          <Route path="/gfg" element={<Navigate replace to="/Gfg" />} />
           {/* Optionally, if you want to still have a Home route, you can include it with its path */}
           {/* <Route path="/home" element={<Home />} /> */}
         </Routes>
