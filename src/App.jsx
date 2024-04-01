@@ -58,7 +58,7 @@ function App() {
           <Route path="/hackerrank" element={<HackerRank />} />
           <Route path="/codingninja" element={<CodingNinja />} />
           <Route path="/gfg" element={<Gfg />} />
-                <Route path="/" element={<Navigate replace to="/gfg" />}
+                <Route path="/" element={<Navigate replace to="/Gfg" />}
           {/* Redirect the root to one of the pages if desired */}
           {/* <Route path="/" element={<Navigate replace to="/leetcode" />} /> */}
         </Routes>
