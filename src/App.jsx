@@ -38,28 +38,25 @@ import HackerRank from './HackerRank';
 import CodingNinja from './CodingNinja';
 import Gfg from './Gfg';
 import Footers from './Footers';
-// Home import removed since you want Gfg as home
 
 function App() {
   return (
     <Router>
       <div>
-      <Navbar />
+        <Navbar />
         <Routes>
           <Route path="/leetcode" element={<LeetCode />} />
           <Route path="/hackerrank" element={<HackerRank />} />
           <Route path="/codingninja" element={<CodingNinja />} />
           <Route path="/gfg" element={<Gfg />} />
-          {/* Redirect root path to Gfg. No need for exact, as Routes chooses the first matching route */}
-          <Route path="/gfg" element={<Navigate replace to="/Gfg" />} />
-          {/* Optionally, if you want to still have a Home route, you can include it with its path */}
-          {/* <Route path="/home" element={<Home />} /> */}
+          {/* Redirect root path to /gfg */}
+          <Route path="/" element={<Navigate replace to="/gfg" />} />
         </Routes>
-      <Footers/>
-        
+        <Footers />
       </div>
     </Router>
   );
 }
 
 export default App;
+
