@@ -26,10 +26,8 @@ ul {
 }
 
 .logo {
-    height: 90%;
-    width: 50px;
-    border-radius: 10px;
-    cursor: pointer;
+    height: 94%;
+    width: 24px;
 }
 li .logobig{
     height: 98%;
@@ -207,10 +205,11 @@ li .logobig{
     border-radius: 6px;
 }
 .list-menu p{
-   margin:0px 19px ;
+    margin: -4px 2px;
    padding: 4px;
    color: #fff;
    background-color: #368b8c;
+   text-align: justify;
 }
 
 .list-menu li a {

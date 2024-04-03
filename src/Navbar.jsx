@@ -77,7 +77,7 @@ function Navbar() {
                       < img className='logo' src={twitter} alt="ComboCoding Logo" />
                       < img className='logo' src={Git} alt="ComboCoding Logo" />
                         </div> */}
-                         <h6 id='connect1'>Connect With Us</h6>
+                         {/* <h6 id='connect1'>Connect With Us</h6> */}
 
                         <div className='media'>
                         
