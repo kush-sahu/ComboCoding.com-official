@@ -1,8 +1,5 @@
 
 
-
-<<<<<<< HEAD
-=======
 // import React from 'react';
 // import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 
@@ -75,7 +72,7 @@
 
 
 
->>>>>>> 6919ae66c1e8bea2645ba0630e9a66a22d53de46
+
 import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 
