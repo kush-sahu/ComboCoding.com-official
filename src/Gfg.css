@@ -81,7 +81,9 @@ margin-left: 8px;
 
 .card button{
   background-color: rgb(49, 237, 237);
-  border: 1px solid rgb(23, 139, 255);
+  /* border: 1px solid rgb(23, 139, 255); */
+ border-color: rgb(236, 236, 236);
+ 
 }
 
 @media only screen and (max-width: 1380px)
@@ -105,8 +107,9 @@ margin-left: 8px;
     
   }
   .card button{
-    background-color: rgb(49, 237, 237);
-    border: 1px solid rgb(23, 139, 255);
+    /* background-color: rgb(49, 237, 237); */
+    background-color: white;
+    /* border: 1px solid rgb(255, 13, 45); */
   }
 
 }

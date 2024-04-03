@@ -36,6 +36,11 @@ li .logobig{
     width: 25%;
     border-radius: 50%;
 }
+.logobig2{
+    height: 98%;
+    width: 14%;
+    border-radius: 50%;
+}
 .loginbtn {
     background-color: rgb(32, 97, 141);
       color: white;
@@ -131,7 +136,7 @@ li .logobig{
 @media only screen and (max-width: 1388px)
 {
     ul{
-         
+       background-color: yellow;  
     }
     .hamburger-menu {
         position: fixed;
@@ -148,16 +153,19 @@ li .logobig{
         text-align: center;
         outline: 2ps solid #040858;
         text-decoration: underline;
+        /* margin-top: 12px; */
+        color: #fff;
+    /* margin-bottom: -45px; */
     }
     .media{
         width: 90%;
         margin: auto;
         display: flex;
         justify-content: space-between;
-        border-radius: 5%;
+        border-radius: 8px;
         padding: 5%;
         
-        background-color: rgba(240, 255, 255, 0.37);
+        background-color:white;
         box-sizing: border-box;
         display: flex;
         flex-wrap: wrap;
@@ -180,10 +188,12 @@ li .logobig{
     cursor: pointer;
     flex-direction: column;
    z-index: 9;
+   background-color: #368b8c;
   }
+ 
 #para{
     font-size: large;
-    padding: 4px;
+    margin-left: -17px;
     border-radius: 5px;
 }
 
@@ -193,12 +203,14 @@ li .logobig{
     font-size: 25px;
     border: 2px solid rgb(229, 220, 220);
     margin: 6px;
+    background-color: #fff;
+    border-radius: 6px;
 }
 .list-menu p{
    margin:0px 19px ;
    padding: 4px;
-   
-    background-color: rgb(235, 235, 235);
+   color: #fff;
+   background-color: #368b8c;
 }
 
 .list-menu li a {
