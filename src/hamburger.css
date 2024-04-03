@@ -8,8 +8,9 @@
     justify-content: space-between;
     background: #fff;
     padding: 15px 0px;
-    border-radius: 12px;
+    /* border-radius: 12px; */
     box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    height: 80px;
 }
 
 ul {
@@ -29,6 +30,23 @@ ul {
     width: 50px;
     border-radius: 10px;
     cursor: pointer;
+}
+li .logobig{
+    height: 98%;
+    width: 25%;
+    border-radius: 50%;
+}
+.loginbtn {
+    background-color: rgb(32, 97, 141);
+      color: white;
+      border-radius:6px ;
+      border-color: #fff;
+      height: 34px;
+      font-size: 15px;
+      margin: 7px;
+      color: rgb(255, 255, 255);
+
+      
 }
 
 .nav-links li {
@@ -112,6 +130,9 @@ ul {
 /* Existing styles remain the same */
 @media only screen and (max-width: 1388px)
 {
+    ul{
+background-color: #040858;
+    }
     .hamburger-menu {
         position: fixed;
         z-index: 4;
@@ -135,7 +156,8 @@ ul {
         justify-content: space-between;
         border-radius: 5%;
         padding: 5%;
-        background-color: rgb(242, 242, 242);
+        
+        background-color: rgba(240, 255, 255, 0.37);
         box-sizing: border-box;
         display: flex;
         flex-wrap: wrap;
