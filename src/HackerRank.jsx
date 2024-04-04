@@ -16,7 +16,7 @@ function HackerRank() {
   // Function to fetch data
   const fetchData = async () => {
     try {
-      const response = await fetch('https://kush-sahu.github.io/Final-sheet2.json/cninja.json');
+      const response = await fetch('https://kush-sahu.github.io/HackerRank.json/hrak.json');
      
       const data = await response.json();
       if (data && data.Sheet1) {

@@ -12,7 +12,7 @@ function Footers() {
                
             <div className='media1'>
             
-                <a href="https://yourwebsite.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://whatsapp.com/channel/0029VaU4fW6BPzjcnyQXOZ25" target="_blank" rel="noopener noreferrer">
                     <img className='logo' src={wp} alt="ComboCoding Logo" />
                 </a>
                 <a href="https://www.linkedin.com" target="_blank" rel="noopener noreferrer">
@@ -21,7 +21,7 @@ function Footers() {
                 <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
                     <img className='logo' src={twitter} alt="ComboCoding Twitter Logo" />
                 </a>
-                <a href="https://github.com" target="_blank" rel="noopener noreferrer">
+                <a href="https://github.com/kush-sahu/ComboCoding.com-official" target="_blank" rel="noopener noreferrer">
                     <img className='logo' src={Git} alt="ComboCoding GitHub Logo" />
                 </a>
                 <h6 id='connect'>Connect</h6>
