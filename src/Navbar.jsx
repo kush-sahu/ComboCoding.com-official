@@ -8,7 +8,7 @@ import linkedin from './linkeddin.jpg'
 import logo from "./logo.jpeg";
 import twitter from './twitter.png'
 import wp from './wp.png'
-import Git from './github.png'
+import Git from './tle.png'
 
 function Navbar() {
     const [showNav, setShowNav] = useState(true);
@@ -90,7 +90,7 @@ function Navbar() {
                             <a href="https://twitter.com" target="_blank" rel="noopener noreferrer">
                                 <img className='logo' src={twitter} alt="ComboCoding Twitter Logo" />
                             </a>
-                            <a href="https://github.com/kush-sahu/ComboCoding.com-official" target="_blank" rel="noopener noreferrer">
+                            <a href="https://t.me/+vqTQLPKOfAxlNTc1" target="_blank" rel="noopener noreferrer">
                                 <img className='logo' src={Git} alt="ComboCoding GitHub Logo" />
                             </a>
                         </div>
