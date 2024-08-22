@@ -81,10 +81,11 @@ function App() {
           google={google}
         /> 
       )}
-       <button onClick={toggleRegister}>
+      <center>
+       <button style={{ width: '14%', backgroundColor: 'red',color:'white' }} onClick={toggleRegister}>
         {showRegister ? 'Login' : 'Register'}
       </button>
-
+      </center>
       
       {showRegister && (
         <SignIn SetEmail={setEmail} SetPass={setPass} create={create} google={google} />

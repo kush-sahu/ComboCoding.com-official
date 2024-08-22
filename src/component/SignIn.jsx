@@ -21,7 +21,7 @@ function Sign({SetEmail,SetPass,check,google}) {
                     <label className="form-labelr" htmlFor="password">Password</label>
                 </div>
                 <button type="submit" className="btnr">Sign In</button>
-                <center><button className="btnr " style={{ width: '40%', backgroundColor: 'orange' }} onClick={google}>Sign In using Google </button></center>
+                <center><button className="btnr " style={{ width: '40%', backgroundColor: 'orange',marginTop:'4%' }} onClick={google}>Sign In using Google </button></center>
          
                 
             </form>
