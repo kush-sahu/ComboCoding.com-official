@@ -82,7 +82,7 @@ function App() {
         /> 
       )}
       <center>
-       <button style={{ width: '14%', backgroundColor: 'red',color:'white' }} onClick={toggleRegister}>
+       <button style={{ cursor:'pointer',width: '14%', backgroundColor: 'red',color:'white' }} onClick={toggleRegister}>
         {showRegister ? 'Login' : 'Register'}
       </button>
       </center>
