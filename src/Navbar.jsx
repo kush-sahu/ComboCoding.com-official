@@ -36,9 +36,9 @@ function Navbar() {
     const closeList = () => {
         setShowList(false);
     };
-    const handleLogin = () => {
-        window.open('https://sonal.vflyorions.in/lms/login.php', '_blank');
-      };
+    // const handleLogin = () => {
+    //     window.open('https://sonal.vflyorions.in/lms/login.php', '_blank');
+    //   };
 
     return (
         <>
@@ -48,10 +48,11 @@ function Navbar() {
                     <li><Link to="/leetcode">LeetCode</Link></li>
                     <li className="center"><Link to="/hackerrank">HackerRank</Link></li>
                     <li className="upward"><Link to="/codingninja">CodingNinja</Link></li>
-                    <li className="forward"><Link to="/Gfg">GreekforGreks</Link></li>
-                    <button className="loginbtn" onClick={handleLogin}>Login</button>
+                    <li className="forward"><Link to="/gfg">GreekforGreks</Link></li>
+                    <li className="center"><Link to="/user">User</Link></li>
+                     {/* <button className="loginbtn" onClick={handleLogin}>Login</button>  */}
 
-                </ul>
+                </ul>  
             ) : (
                 <div className="hamburger-menu" onClick={toggleList}>
                     <img className='logobig2' src={logo} alt="ComboCoding Logo" />
@@ -63,7 +64,10 @@ function Navbar() {
             {showList && (
                 <div className="list-menu">
                     <ul>
-                    <li ><a href="https://sonal.vflyorions.in/lms/login.php" target="_blank" rel="noopener noreferrer">Login</a></li>
+                    <li >
+                        {/* <a href="https://sonal.vflyorions.in/lms/login.php" target="_blank" rel="noopener noreferrer">Login</a> */}
+                        <li className="center"><Link to="/login">Login</Link></li>
+                    </li>
                         <li className='listelement' onClick={closeList}><Link to="/leetcode">LeetCode</Link></li>
                         <li onClick={closeList}><Link to="/hackerrank">HackerRank</Link></li>
                         <li onClick={closeList}><Link to="/codingninja">CodingNinja</Link></li>

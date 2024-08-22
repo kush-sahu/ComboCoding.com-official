@@ -100,7 +100,7 @@ function HackerRank() {
             <div className='insideTopic-App1'>
               {cards.map((card, index) => (
                 // <div key={index} className="card flex " style={}>
-             <   div key={index} className="card flex" style={{ backgroundColor: 'rgb(42 198 12 / 52%)' }}>
+             <   div key={index} className="card flex" style={{ backgroundColor: 'rgb(42 198 12 / 52%)' ,flexDirection:'row'}}>
                   <div>
                   <button className='gfgimage1' onClick={() => handleChoose(topic, index)} style={{ color: selectedCards[topic] && selectedCards[topic].includes(index) ? 'white' : 'brown', backgroundColor:selectedCards[topic] && selectedCards[topic].includes(index) ? 'rgb(79, 168, 9)':'white' }}>
                       {selectedCards[topic] && selectedCards[topic].includes(index) ? 'Done' : 'Choose'}

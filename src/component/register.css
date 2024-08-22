@@ -1,0 +1,78 @@
+  .register{
+            background-color: #eee;
+            font-family: Arial, sans-serif;
+            height: 100vh;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0;
+        }
+
+        .containerr {
+            width: 100%;
+            max-width: 1200px;
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+
+        .cardr {
+            background-color: #fff;
+            border-radius: 25px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            padding: 40px;
+            width: 100%;
+            max-width: 500px;
+        }
+
+        .cardr h1 {
+            font-weight: bold;
+            margin-bottom: 30px;
+            text-align: center;
+        }
+
+        .form-groupr {
+            margin-bottom: 20px;
+            
+            align-items: center;
+        }
+
+        .form-groupr i {
+            font-size: 22px;
+            margin: auto;
+        }
+
+        .form-controlr {
+            width: 100%;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+        }
+
+        .form-controlr:focus {
+            outline: none;
+            border-color: #007bff;
+        }
+
+        .form-labelr {
+            margin-top: 10px;
+            font-size: 14px;
+            color: #777;
+        }
+
+        .btnr {
+            width: 100%;
+            padding: 10px;
+            background-color: #007bff;
+            color: #fff;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px;
+        }
+
+        .btnr:hover {
+            background-color: #0056b3;
+        }
+    
