@@ -96,7 +96,8 @@ function App() {
           SetPass={setPass}
           check={check}
           google={google}
-        /> ):(<SignIn SetEmail={setEmail} SetPass={setPass} create={create} google={google} />)}
+          toggle={toggleRegister}
+        /> ):(<SignIn SetEmail={setEmail} SetPass={setPass} create={create} google={google} toggle={toggleRegister} />)}
 
      <Router>
       <Routes>

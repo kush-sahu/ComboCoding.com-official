@@ -1,7 +1,7 @@
 import React ,{useState}from 'react'
 import './register.css';
 import { Link } from 'react-router-dom';
-function Sign({SetEmail,SetPass,check,google}) {
+function Sign({SetEmail,SetPass,check,google,toggle}) {
    
   return (
     <div className='register'>
@@ -22,7 +22,7 @@ function Sign({SetEmail,SetPass,check,google}) {
                 </div>
                 <button type="submit" className="btnr">Sign In</button>
                 <center><button className="btnr " style={{ width: '40%', backgroundColor: 'orange',marginTop:'4%' }} onClick={google}>Sign In using Google </button></center>
-         
+                <button onClick={toggle}>create account</button>
                 
             </form>
         </div>

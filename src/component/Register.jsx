@@ -3,7 +3,7 @@ import React from 'react'
 import { Link } from 'react-router-dom'
 
 
-function SignIn({ SetPass, SetEmail,create,google }) {
+function SignIn({ SetPass, SetEmail,create,google,toggle }) {
 
 
 
@@ -29,6 +29,7 @@ function SignIn({ SetPass, SetEmail,create,google }) {
                 <center><button className="btnr " style={{ width: '40%', backgroundColor: 'orange',marginTop:'4%' }} onClick={google}>Login using Google </button></center>
                 {/* <center> <Link to="/login">SignIn</Link></center> */}
             {/* </form> */}
+            <button onClick={toggle}>Login</button>
         </div>
     </div>
 
