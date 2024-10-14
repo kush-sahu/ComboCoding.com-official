@@ -1,11 +1,14 @@
+  
   .register{
-            background-color: #eee;
+            background-color: #fed3d3;
+            background-image: url('');
             font-family: Arial, sans-serif;
             height: 100vh;
             display: flex;
             justify-content: center;
             align-items: center;
             margin: 0;
+            ba
         }
 
         .containerr {
