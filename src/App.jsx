@@ -73,7 +73,7 @@ function App() {
     return (
      <>
      
-        {showlogin && ( 
+        {/* {showlogin && ( 
         <Sign
           SetEmail={setEmail}
           SetPass={setPass}
@@ -81,15 +81,22 @@ function App() {
           google={google}
         /> 
       )}
-      <center>
+      {/* <center>
        <button style={{ cursor:'pointer',width: '14%', backgroundColor: 'red',color:'white' }} onClick={toggleRegister}>
         {showRegister ? 'Login' : 'Register'}
       </button>
-      </center>
+      </center> */}
       
-      {showRegister && (
+      {/* {showRegister && (
         <SignIn SetEmail={setEmail} SetPass={setPass} create={create} google={google} />
-      )}
+      )}  */}
+
+      {showlogin ?(<Sign
+          SetEmail={setEmail}
+          SetPass={setPass}
+          check={check}
+          google={google}
+        /> ):(<SignIn SetEmail={setEmail} SetPass={setPass} create={create} google={google} />)}
 
      <Router>
       <Routes>
