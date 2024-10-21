@@ -3,12 +3,10 @@ import './register.css';
 import { Link } from 'react-router-dom';
 function Sign({SetEmail,SetPass,check,google,toggle}) {
 
-
     const guesthandle=()=>{
         SetEmail('guest@gmail.com')
         SetPass('guestlogin')
     }
-
    
   return (
     <div className='register'>
@@ -28,7 +26,6 @@ function Sign({SetEmail,SetPass,check,google,toggle}) {
                     <label className="form-labelr" htmlFor="password">Password</label>
                 </div>
                 <button type="submit" className="btnr">Sign In</button>
-
                 <center>
                     <button className="btnr " style={{ width: '40%', backgroundColor: 'red',margin:'4%' }} onClick={google}>Google </button>
                     <button className="btnr " style={{ width: '40%', backgroundColor: 'red',margin:'4%' }} onClick={guesthandle}>Guest  </button>
