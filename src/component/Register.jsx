@@ -26,7 +26,9 @@ function SignIn({ SetPass, SetEmail,create,google,toggle }) {
                     <label className="form-labelr" htmlFor="password">Password</label>
                 </div>
                 <button type="submit" onClick={(e)=>create(e)} className="btnr">Create</button>
-                <center><button className="btnr " style={{ width: '40%', backgroundColor: 'orange',marginTop:'4%' }} onClick={google}>Login using Google </button></center>
+
+                <center><button className="btnr " style={{ width: '40%', backgroundColor: 'red',marginTop:'4%' }} onClick={google}>Google </button></center>
+
                 {/* <center> <Link to="/login">SignIn</Link></center> */}
             {/* </form> */}
             <button onClick={toggle}>Login</button>
