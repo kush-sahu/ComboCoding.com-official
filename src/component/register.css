@@ -1,19 +1,21 @@
   
   .register{
-            background-color: #fed3d3;
-            background-image: url('');
+
+            background-color: #ffc6c6;
+            background-image: url(../dsa1.0.jpg);
+            background-repeat: no-repeat;
+            background-size: 100%;
             font-family: Arial, sans-serif;
             height: 100vh;
             display: flex;
-            justify-content: center;
+            justify-content: end;
             align-items: center;
-            margin: 0;
-            ba
+            
         }
 
         .containerr {
-            width: 100%;
-            max-width: 1200px;
+          width: 45%;
+
             height: 80%;
             display: flex;
             justify-content: center;
@@ -25,8 +27,10 @@
             /* border-radius: 25px; */
             box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
             padding: 40px;
-            width: 100%;
-            max-width: 500px;
+
+            width: 80%;
+            max-width: 400px;
+            border-radius: 2%;
         }
 
         .cardr h1 {
@@ -78,4 +82,20 @@
         .btnr:hover {
             background-color: #0056b3;
         }
+
     
+
+        @media screen and (max-width: 900px) {
+            
+            .cardr {
+                width: 100%;
+                height: 100%;
+                border-radius: 0%;
+            }
+            .containerr{
+                width: 100vw;
+                height: 90%;
+            }
+
+        }
+
