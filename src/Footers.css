@@ -1,0 +1,32 @@
+.media1{
+  
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+    border-radius: 5%;
+    padding: 10px;
+    margin: 20px 0 ;
+    top: 30%;
+    left: 0;
+    position: fixed;
+    flex-direction: column-reverse;
+    height: 30%; 
+    
+ 
+    background-color: rgb(255, 255, 255);
+    
+    
+}
+#connect{
+    margin: 0;
+    font-size: 14px;
+    color: brown;
+    text-align: center;
+}
+@media only screen and (max-width: 768px)
+{
+    .media1{
+       display: none;
+       
+    }
+}
