@@ -1,0 +1,3140 @@
+{ "Sheet1":[
+        {
+            "Topic:": "Array",
+            "Problem: ": "Reverse the array",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/reverse-the-array_1262298",
+            "URL1":"https://youtu.be/80auISlKy50?si=pz-1luf4AW586qV_" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Find the maximum and minimum element in an array",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/minimum-maximum-value_3125971",
+            "URL1":"https://youtu.be/6lAFOFQ_NNs?si=GM6UFYBS6p4hs_US" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Find the \"Kth\" max and min element of an array ",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/kth-smallest-and-largest-element-of-array_1115488",
+            "URL1":"https://youtu.be/9s6ZcFZ_3ys?si=GTemNkUsR1leS52F" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Given an array which consists of only 0, 1 and 2. Sort the array without using any sorting algo",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/sort-an-array-of-0s-1s-and-2s_892977",
+            "URL1":"https://youtu.be/BjnWMzRnAlI?si=uYTFi6OStbkclAkc" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Move all the negative elements to one side of the array",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/move-all-negative-numbers-to-beginning-and-positive-to-end_1112620",
+            "URL1":"https://youtu.be/T9tzE3NeZl8?si=AZLxxYPVJLaTSDQa" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Find the Union and Intersection of the two sorted arrays.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/union-of-two-arrays/0",
+            "URL1":"https://youtu.be/wvcQg43_V8U?si=8xlCtsHDaZMrL6FY" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Write a program to cyclically rotate an array by one.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/cyclically-rotate-an-array-by-one_1112658",
+            "URL1":"https://youtu.be/5QuVKUQ4o2I?si=pVrayY3Y7a-f8BBW" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "find Largest sum contiguous Subarray [V. IMP]",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/maximum-subarray-sum_630526",
+            "URL1":"https://youtu.be/AHZpyENo7k4?si=c98UFCbs3u5Xq2Xz" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Minimise the maximum difference between heights [V.IMP]",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/minimize-the-difference_3208652",
+            "URL1":"https://youtu.be/Av7vSnPSCtw?si=d7u8vYjcF9Xu1fu1" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Minimum no. of Jumps to reach end of an array",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/minimum-jumps_1062693",
+            "URL1":"https://youtu.be/CqgK_qi4SKQ?si=txs9ZIDtb34JgJU5" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "find duplicate in an array of N+1 Integers",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/find-the-duplicate-number/",
+            "URL1":"https://youtu.be/kV37sZV9pgk?si=UFSs84Q-wraOv19_" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Merge 2 sorted arrays without using Extra space.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/merge-two-sorted-arrays5135/1",
+            "URL1":"https://youtu.be/n7uwj04E0I4?si=foobXahGeU-DCMHI" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Kadane's Algo [V.V.V.V.V IMP]",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+            "URL1":"https://youtu.be/w4W6yya1PIc?si=fiVNIx_IYB2cSBHZ" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Merge Intervals",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/merge-intervals_699917",
+            "URL1":"https://youtu.be/IexN60k62jo?si=XHOvWnujJGwZRpmc" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Next Permutation",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/next-permutaion_893046",
+            "URL1":"https://youtu.be/JDOXKqF60RQ?si=niOk75Ke9x7bN7yr" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Count Inversion",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/count-inversions_615",
+            "URL1":"https://youtu.be/AseUmwVNaoY?si=yrMGYCgEGIAuSmh2" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Best time to buy and Sell stock",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/best-time-to-buy-and-sell-stock_893405",
+            "URL1":"https://youtu.be/34WE6kwq49U?si=FYrsdr0IBhQRNvRs" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "find all pairs on integer array whose sum is equal to given number",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/number-of-pairs-with-given-sum_630509",
+            "URL1":"https://youtu.be/tmki0OoLqIg?si=5EcDvja2i7LZs8Rn" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "find common elements In 3 sorted arrays",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/common-elements-in-three-sorted-arrays_1113130",
+            "URL1":"https://youtu.be/ajWCEu1razQ?si=CJ_VLNM2hsKU15l9" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Rearrange the array in alternating positive and negative items with O(1) extra space",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/rearrange-alternatively_873851",
+            "URL1":"https://youtu.be/zUPMACE0uBs?si=ZPAkjlUat9lUpaP5" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Find if there is any subarray with sum equal to 0",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/subarray-with-given-sum_842487",
+            "URL1":"https://youtu.be/QtbFXZrEZYc?si=uscfcvAf9Mkv0XYz" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Find factorial of a large number",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/factorial-of-a-large-number_1115471",
+            "URL1":"https://youtu.be/O3fwYjcMV_M?si=AhXYyiTQaei4pudB" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "find maximum product subarray ",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/maximum-subarray_893296",
+            "URL1":"https://youtu.be/hnswaLJvr6g?si=SSo6da7phoqZiDHW" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Find longest coinsecutive subsequence",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/longest-consecutive-sequence_759408",
+            "URL1":"https://youtu.be/oO5uLE7EUlM?si=EDhvxle1SanbuggF" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Given an array of size n and a number k, fin all elements that appear more than \" n/k \" times.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/elements-occur-more-than-n-k-times_1113146",
+            "URL1":"https://youtu.be/cIgDFIoA_s0?si=riy4wfAOdIlH0kBa" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Maximum profit by buying and selling a share atmost twice",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/buy-and-sell-stock_1071012",
+            "URL1":"https://youtu.be/kSfPhRHULgs?si=VBmwhYQFqYFxvaNh" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Find whether an array is a subset of another array",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/check-subset_762948",
+            "URL1":"https://youtu.be/1HMUgPcqMh8?si=UEdRPRi2p2yi22JK" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Find the triplet that sum to a given value",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/find-all-triplets-with-zero-sum_873143",
+            "URL1":"https://youtu.be/o9MLd-eLZuQ?si=8sLgVw-aLKwvsTtP" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Trapping Rain water problem",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/trapping-rainwater_630519",
+            "URL1":"https://youtu.be/UZG3-vZlFM4?si=2d3s4SXkulodT3Nx" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Chocolate Distribution problem",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/chocolate-problem_893280",
+            "URL1":"https://youtu.be/oDzjaNn-4tg?si=8ub1pG56z_35ZqeY" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Smallest Subarray with sum greater than a given value",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/shortest-subarray-with-sum-at-least-k_975374",
+            "URL1":"https://youtu.be/NKoHjWl2m8Y?si=2BP7X8zgucz6P4PS" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Three way partitioning of an array around a given value",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/3-way-split_2408036",
+            "URL1":"https://youtu.be/NKoHjWl2m8Y?si=l0wd9_CPR9cZ3aTQ" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Minimum swaps required bring elements less equal K together",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/minimum-swaps-to-bring-all-elements-less-than-or-equal-to-k-together_1112657",
+            "URL1":"https://youtu.be/yXjVfeWzyAM?si=wnPiLt6wn5XvtVcd" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Minimum no. of operations required to make an array palindrome",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/make-it-palindrome_3189160",
+            "URL1":"https://youtu.be/hlGAy3jzfEM?si=f4a-U2JYsHyZDrDD" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Median of 2 sorted arrays of equal size",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/median-of-two-sorted-arrays_985294",
+            "URL1":"https://youtu.be/oKvYLdzniOI?si=KxurjiFXjsHYYSnh" 
+        },
+        {
+            "Topic:": "Array",
+            "Problem: ": "Median of 2 sorted arrays of different size",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/median-of-two-sorted-arrays_985294",
+            "URL1":"https://youtu.be/C2rRzz-JDk8?si=qdvEdh8dd9R3EmpP" 
+        },
+        {
+            "Topic:": "Matrix",
+            "Problem: ": "Spiral traversal on a Matrix",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/spiral-matrix_840698",
+            "URL1":"https://youtu.be/3Zv-s9UUrFM?si=u4ej36wNQURCdk5B" 
+        },
+        {
+            "Topic:": "Matrix",
+            "Problem: ": "Search an element in a matriix",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/search-in-a-2d-matrix_980531",
+            "URL1":"https://youtu.be/JXU4Akft7yk?si=MQFrlGITbzISSrLl" 
+        },
+        {
+            "Topic:": "Matrix",
+            "Problem: ": "Find median in a row wise sorted matrix",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/median-of-a-row-wise-sorted-matrix_1115473",
+            "URL1":"https://youtu.be/Q9wXgdxJq48?si=Y-1pn3rlNEGGiue7" 
+        },
+        {
+            "Topic:": "Matrix",
+            "Problem: ": "Find row with maximum no. of 1's",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/row-with-maximum-1-s_1112656",
+            "URL1":"https://youtu.be/SCz-1TtYxDI?si=y6B9suAaDfW0-C0M" 
+        },
+        {
+            "Topic:": "Matrix",
+            "Problem: ": "Print elements in sorted order using row-column wise sorted matrix",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/search-in-a-row-wise-and-column-wise-sorted-matrix_839811",
+            "URL1":"https://youtu.be/82_YPQ8KGqM?si=bzhHvMca37i3Pspj" 
+        },
+        {
+            "Topic:": "Matrix",
+            "Problem: ": "Maximum size rectangle",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/maximum-size-rectangle-sub-matrix-with-all-1-s_893017",
+            "URL1":"https://youtu.be/oaN9ibZKMpA?si=5kk8IHW9I3qUDDJj" 
+        },
+        {
+            "Topic:": "Matrix",
+            "Problem: ": "Find a specific pair in matrix",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/find-a-specific-pair-in-the-matrix_1115467",
+            "URL1":"https://youtu.be/aUhR_T5J9is?si=MRaEtn9t6Dlyx4GN" 
+        },
+        {
+            "Topic:": "Matrix",
+            "Problem: ": "Rotate matrix by 90 degrees",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/rotate-matrix-by-90-degrees_981261",
+            "URL1":"https://youtu.be/Z0R2u6gd3GU?si=9oYq9p2Gy_qvelrH" 
+        },
+        {
+            "Topic:": "Matrix",
+            "Problem: ": "Kth smallest element in a row-cpumn wise sorted matrix",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/kth-smallest-element_3621004",
+            "URL1":"https://youtu.be/HuOcDlB1uXk?si=yNraSSHEJeCuhUSl" 
+        },
+        {
+            "Topic:": "Matrix",
+            "Problem: ": "Common elements in all rows of a given matrix",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/common-elements-present-in-all-rows-of-a-matrix_1118111",
+            "URL1":"https://youtu.be/ajWCEu1razQ?si=cRfta-MN_zoj54aU" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Reverse a String",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/reverse-the-string_799927",
+            "URL1":"https://youtu.be/3eYnqvqEV5o?si=o1rSo3CwNSt5XSUp" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Check whether a String is Palindrome or not",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/check-palindrome_4219630",
+            "URL1":"https://youtu.be/ziJgsbfk5ko?si=vMwhaWMHbJt90A9n" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Find Duplicate characters in a string",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/duplicate-characters_3189116",
+            "URL1":"https://youtu.be/YmXgJPkmc9Q?si=oU5TvLcTuQ6fob0X" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Why strings are immutable in Java?",
+            "Done": "<->",
+            "URL": "<->",
+            "URL1":"https://youtu.be/to9DPVsdByE?si=El6SeaF0K_XsTKEM" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Write a Code to check whether one string is a rotation of another",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/check-if-one-string-is-a-rotation-of-another-string_1115683",
+            "URL1":"https://youtu.be/5e63aHK6Q-E?si=WZ5mL3b9neIQ_ym8" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Write a Program to check whether a string is a valid shuffle of two strings or not",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/shuffle-two-strings_1115692",
+            "URL1":"https://youtu.be/qN_vwYtvFUM?si=DwrR5UKbfh-psSNA" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Count and Say problem",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/write-as-you-speak_1090543",
+            "URL1":"https://youtu.be/1YUqtoT9YoE?si=7pud9wt0qltGXzK3" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Write a program to find the longest Palindrome in a string.[ Longest palindromic Substring]",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/longest-palindromic-substring_758900",
+            "URL1":"https://youtu.be/jCOJk4UyO8w?si=OiMuzAgWVLL_PWhZ" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Find Longest Recurring Subsequence in String",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/longest-repeating-subsequence_1118110",
+            "URL1":"https://youtu.be/UQiZmkVwARg?si=PB9bWYwqOCvALOcd" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Print all Subsequences of a string.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/subsequences-of-string_985087",
+            "URL1":"https://youtu.be/AxNNVECce8c?si=BcXHkJTUxkCU0hLv" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Print all the permutations of the given string",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/permutations-of-a-string_985254",
+            "URL1":"https://youtu.be/YK78FU5Ffjw?si=13fVFJWtZgi6bAux" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Split the Binary string into two substring with equal 0’s and 1’s",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/split-binary-string_1115684",
+            "URL1":"https://youtu.be/UyX22tCpzhI?si=xvbOBJ9B3FoaXy02" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Word Wrap Problem [VERY IMP].",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/word-wrap_982931",
+            "URL1":"https://youtu.be/FVWAEzHSbRo?si=shTgrpVr94ZQ2Xzn" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "EDIT Distance [Very Imp]",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/edit-distance_630420",
+            "URL1":"https://youtu.be/3_KL0hiPsNE?si=FvQRfEyYDNiQwACi" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Find next greater number with same set of digits. [Very Very IMP]",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/next-greater-number_980529",
+            "URL1":"https://youtu.be/OESwQtfkBn0?si=EpZoXlzAxNS-GTBH" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Balanced Parenthesis problem.[Imp]",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/return-parentheses_920446",
+            "URL1":"https://youtu.be/aKTGpBeOeZg?si=fPzzKLQN9X2RwN3E" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Word break Problem[ Very Imp]",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/word-break_1094901",
+            "URL1":"https://youtu.be/FVWAEzHSbRo?si=0nisN7hDcKhKK-NW" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Rabin Karp Algo",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/stringmatch-rabincarp_1115738",
+            "URL1":"https://youtu.be/oxd_Z1osgCk?si=gdGvYvL65Byz3hsM" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "KMP Algo",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/find-pattern-in-string_1112621",
+            "URL1":"https://youtu.be/cH-5KcgUcOE?si=zV690tmnrAl8EVaY" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Convert a Sentence into its equivalent mobile numeric keypad sequence.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/convert-sentence_1115490",
+            "URL1":"https://youtu.be/hE4Nn7o4GFw?si=zGgW3qOdupbGC2MV" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Minimum number of bracket reversals needed to make an expression balanced.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/minimum-cost-to-make-string-valid_1115770",
+            "URL1":"https://youtu.be/-n_CsIL3Ts4?si=YYCjlEQRBwQgxfVY" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Count All Palindromic Subsequence in a given String.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/count-palindromic-subsequences_1062696",
+            "URL1":"https://youtu.be/vlbA8oUxSV0?si=94PWcoTO9p65J1pF" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Count of number of given string in 2D character array",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/count-strings_1118116",
+            "URL1":"https://youtu.be/ZYeVllg0D7E?si=jUwwPuEeP2uDxtTq" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Search a Word in a 2D Grid of characters.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/word-search_892986",
+            "URL1":"https://youtu.be/ZYeVllg0D7E?si=52tpum-IiONxpnob" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Boyer Moore Algorithm for Pattern Searching.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/boyer-moore-algorithm-for-pattern-searching_1115634",
+            "URL1":"https://youtu.be/cH-5KcgUcOE?si=CRkfxwAHJlKWU1h4" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Converting Roman Numerals to Decimal",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/roman-number-to-integer_981308",
+            "URL1":"https://youtu.be/MOIJxae_7Pk?si=PelqvgFNitdHZWjf" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Longest Common Prefix",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/longest-common-prefix_2090383",
+            "URL1":"https://youtu.be/wtOQaovlvhY?si=W-1MFBiKd5O7tLMR" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Number of flips to make binary string alternate",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/number-of-flips_3125902",
+            "URL1":"https://youtu.be/F0E7k6X_kt8?si=BxnZFPSIGyefkR-F" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Find the first repeated word in string.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/first-repeated-character_1214646",
+            "URL1":"https://youtu.be/K3h-RLIL3GU?si=LMO5ke-JMQo0ltri" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Minimum number of swaps for bracket balancing.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/minimum-number-of-swaps-for-bracket-balancing_1115682",
+            "URL1":"https://youtu.be/Ylz6mwghDrU?si=7BG3O2Vzq9s9Nz5y" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Find the longest common subsequence between two strings.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/longest-common-subsequence_624879",
+            "URL1":"https://youtu.be/y1b8pObvndA?si=e54hexNMFxL7ij5K" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Program to generate all possible valid IP addresses from given  string.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/ip-address_992846",
+            "URL1":"https://youtu.be/XU4inpwKt8A?si=ptGvHNPoCv9furHO" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Write a program to find the smallest window that contains all characters of string itself.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/smallest-window-in-string-containing-all-the-characters-of-another-string_981175",
+            "URL1":"https://youtu.be/Q3iTTwgDb6U?si=uqN4b-I0OnFSiusF" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Rearrange characters in a string such that no two adjacent are same",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/rearrange-string_982765",
+            "URL1":"https://youtu.be/sSDAN_WwNwU?si=Q_YYdfbxeonlmIGi" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Minimum characters to be added at front to make string palindrome",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/minimum-characters-for-palindrome_893000",
+            "URL1":"https://youtu.be/xPBLEj41rFU?si=T6zPxsBDrzSIZWjw" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Given a sequence of words, print all anagrams together",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/group-anagrams-together_985354",
+            "URL1":"https://youtu.be/zL0O6Q6kEAQ?si=C0Xf6yUXGumiFD2r" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Find the smallest window in a string containing all characters of another string",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/smallest-window-in-string-containing-all-the-characters-of-another-string_981175",
+            "URL1":"https://youtu.be/MdY4avL4X9I?si=3jEw0uXIq9xM8FAM" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Recursively remove all adjacent duplicates",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/remove-consecutive-duplicates_893195",
+            "URL1":"https://youtu.be/keAwwX0yTBk?si=I3k1o89_qEfcFPAR" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "String matching where one string contains wildcard characters",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/wildcard-pattern-matching_701650",
+            "URL1":"https://youtu.be/OgovJ9CB0hI?si=ZChGnxTRhU_bwAlE" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Function to find Number of customers who could not get a computer",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/count-customers-who-did-not-get-a-computer_1115775",
+            "URL1":"https://youtu.be/HVYDN_3dh70?si=xgTFLTpZg_Cg5crC" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Transform One String to Another using Minimum Number of Given Operation",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/minimum-cost_630564",
+            "URL1":"https://youtu.be/yMnH0jrir0Q?si=x35DKwcNcsAhlz_o" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Check if two given strings are isomorphic to each other",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/isomorphic-strings-_1117636",
+            "URL1":"https://youtu.be/TsTuKNA2K2k?si=JUibco9BcEbP3qPd" 
+        },
+        {
+            "Topic:": "String",
+            "Problem: ": "Recursively print all sentences that can be formed from list of word lists",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/ninja-and-sentences_1123512",
+            "URL1":"https://youtu.be/bZMatdmMiNc?si=AFgdARF5tFFU9BpE" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Find first and last positions of an element in a sorted array",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/",
+            "URL1":"https://youtu.be/rL4R5xa3e4Y?si=o2qFdFv2JcVZv2l2" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Find a Fixed Point (Value equal to index) in a given array",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/fixed-point_1264949",
+            "URL1":"https://youtu.be/WrDo9DitoxI?si=gyXJ5YHZRvGQIJoC" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Search in a rotated sorted array",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/search-in-rotated-sorted-array_1082554",
+            "URL1":"https://youtu.be/5qGrJbHhqFs?si=NK9VDDD3BcOz47if" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "square root of an integer",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/square-root-of-an-integer_1089689",
+            "URL1":"https://youtu.be/Bsv3FPUX_BA?si=dof-2ylpaOlo47tp" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Maximum and minimum of an array using minimum number of comparisons",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/sum-of-max-and-min_1081476",
+            "URL1":"https://youtu.be/7CffAoGhKpo?si=U8n3uhlmhCiCgmzj" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Optimum location of point to minimize total distance",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/optimum-location_1116097",
+            "URL1":"https://youtu.be/xP_aCKJtFPg?si=LwSZRZ-0xgdWHY40" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Find the repeating and the missing",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/missing-and-repeating-numbers_873366",
+            "URL1":"https://youtu.be/2D0D8HE6uak?si=1YsJnciVxKYZQCPz" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "find majority element",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/majority-element_842495",
+            "URL1":"https://youtu.be/nP_ns3uSh80?si=Dd6AtEDm0jhQXFkd" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Searching in an array where adjacent differ by at most k",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/minimize-the-maximum-difference-between-adjacent-elements-in-an-array_893177",
+            "URL1":"https://youtu.be/KtrAWsfyBaA?si=8ML-BvB2Fvheue0u" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "find a pair with a given difference",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/pair-with-diff-k_5393",
+            "URL1":"https://youtu.be/SQkQE8yJekw?si=xi9IspPELeBzfc50" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "find four elements that sum to a given value",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/find-four-elements-that-sums-to-a-given-value_983605",
+            "URL1":"https://youtu.be/0fo7goi2GEg?si=7KH3e2y7juzzDmlD" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "maximum sum such that no 2 elements are adjacent",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/maximum-sum-of-nodes-in-a-binary-tree-such-that-no-two-nodes-are-adjacent_1118112",
+            "URL1":"https://youtu.be/m9-H6AUBLgY?si=kn6qymZ3P1alvYi5" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Count triplet with sum smaller than a given value",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/3-sum-smaller_3161884",
+            "URL1":"https://youtu.be/9455buJlb_k?si=AC04htaq3M0Vmx_I" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "merge 2 sorted arrays",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/sorted-array_6613259",
+            "URL1":"https://youtu.be/n7uwj04E0I4?si=vJvIrCF6Yuc4a-qH" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "print all subarrays with 0 sum",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/subarrays-with-zero-sum_3161876",
+            "URL1":"https://youtu.be/HJWiQP5Kl-Q?si=U_nrWYdF7pqtvmj_" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Product array Puzzle",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/product-array-puzzle_983600",
+            "URL1":"https://youtu.be/d4Es1m_x1wY?si=CywYMkyDf4jraoP7" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Sort array according to count of set bits",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/sort-an-array-according-to-the-count-of-set-bits_873142",
+            "URL1":"https://youtu.be/RdQiA97A7XQ?si=f1CBSDyecSNJgNRP" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "minimum no. of swaps required to sort the array",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/minimum-number-of-swaps-required-to-sort-an-array_973251",
+            "URL1":"https://youtu.be/1BxbBgNSwHo?si=Yc5Sw2cBzRMARjHr" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Bishu and Soldiers",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/hills-and-watchmen_5526027",
+            "URL1":"https://youtu.be/hT1sOIcenBA?si=wiDVySIkrHns08As" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Rasta and Kheshtak",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/reverse-stack-using-recursion_631875",
+            "URL1":"" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Kth smallest number again",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/kth-smallest-element_893056",
+            "URL1":"https://youtu.be/SvM5Y1PDiiA?si=GyILEYs84o0IFyh7" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Find pivot element in a sorted array",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/search-in-rotated-sorted-array_1082554",
+            "URL1":"https://youtu.be/5qGrJbHhqFs?si=XdNLgTQl_9biG2P-" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "K-th Element of Two Sorted Arrays",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/k-th-element-of-2-sorted-array_1164159",
+            "URL1":"https://youtu.be/D1oDwWCq50g?si=gK1DKxjq3zkj9ZxB" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Aggressive cows",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/aggressive-cows_1082559",
+            "URL1":"https://youtu.be/R_Mfw4ew-Vo?si=KLwtaZIj7uKtIObB" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Book Allocation Problem",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/allocate-books_1090540",
+            "URL1":"https://youtu.be/Z0hwjftStI4?si=UavazSfPF44Bsl9Z" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "EKOSPOJ:",
+            "Done": "<->",
+            "URL": "https://www.spoj.com/problems/EKO/",
+            "URL1":"https://youtu.be/tkoucfh10SI?si=mtsH16tkHSCZn3-9" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Job Scheduling Algo",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/job-scheduling-problem_975495",
+            "URL1":"https://youtu.be/V59YYFPN5KA?si=kxBmQVwQOWqVO7WQ" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Missing Number in AP",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/missing-number-in-ap_975498",
+            "URL1":"https://youtu.be/pJdRJqcq-8M?si=pwN3SRuy8hrXlpVl" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Smallest number with atleastn trailing zeroes infactorial",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/smallest-number-with-at-least-n-trailing-zeros-in-factorial_1115774",
+            "URL1":"https://youtu.be/pixOvDxipHI?si=sUkfXYuO57L6i9bj" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Painters Partition Problem:",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/painter-s-partition-problem_1089557",
+            "URL1":"https://youtu.be/thUd_WJn6wk?si=NbpWvI2o7GfL0CQX" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "ROTI-Prata SPOJ",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/cooking-ninjas_1164174",
+            "URL1":"https://youtu.be/-Nx1h54KzUQ?si=DqlLN9ZGSf_eDxfV" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "DoubleHelix SPOJ",
+            "Done": "<->",
+            "URL": "https://www.spoj.com/problems/ANARC05B/",
+            "URL1":"https://youtu.be/-Nx1h54KzUQ?si=Bq61U8vGATNnDUGy" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Subset Sums",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/subset-sum_3843086",
+            "URL1":"https://youtu.be/VCZ4lqfZRPk?si=BK-rRdCRlqOWU3lz" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Findthe inversion count",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/count-inversions_615",
+            "URL1":"https://youtu.be/AseUmwVNaoY?si=F3uTcoNtMR3_Fw9Q" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Implement Merge-sort in-place",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/merge-sort-in-place_1118623",
+            "URL1":"https://youtu.be/ogjf7ORKfd8?si=bj52BAGT25c7Uep8" 
+        },
+        {
+            "Topic:": "Searching & Sorting",
+            "Problem: ": "Partitioning and Sorting Arrays with Many Repeated Entries",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/partition-array_3146848",
+            "URL1":"Partitioning and Sorting Arrays with Many Repeated Entries" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Write a Program to reverse the Linked List. (Both Iterative and recursive)",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/reverse-linked-list_920513",
+            "URL1":"https://youtu.be/D2vI2DNJGd8?si=mL3nH2x-W1Ng8NXT" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Reverse a Linked List in group of Given Size. [Very Imp]",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/reverse-list-in-k-groups_983644",
+            "URL1":"https://youtu.be/lIar1skcQYI?si=y5YJcWXQzrmr_VAc" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Write a program to Detect loop in a linked list.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/interview-shuriken-42-detect-and-remove-loop_241049",
+            "URL1":"https://youtu.be/wiOo4DC5GGA?si=bnzjMcuPT4G9u6vM" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Write a program to Delete loop in a linked list.",
+            "Done": "<->",
+            "URL": "https://www.codingninjas.com/studio/problems/interview-shuriken-42-detect-and-remove-loop_241049",
+            "URL1":"https://youtu.be/aIR0s1tY2Vk?si=89QYTl3ZSEeDXXvj" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Find the starting point of the loop. ",
+            "Done": "<->",
+            "URL": "
+            "URL1":"https://youtu.be/JA0btO100c0?si=z-2Ok-_OrY3PNuZx" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Remove Duplicates in a sorted Linked List.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/remove-duplicate-element-from-sorted-linked-list/1",
+            "URL1":"https://youtu.be/YJKVTnOJXSY?si=9InfdXS13ph8RVJ8" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Remove Duplicates in a Un-sorted Linked List.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/remove-duplicates-from-an-unsorted-linked-list/1",
+            "URL1":"https://youtu.be/0LUAUL58nxo?si=Fwdp0v1mgZsoPxvz" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Write a Program to Move the last element to Front in a Linked List.",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/move-last-element-to-front-of-a-given-linked-list/",
+            "URL1":"https://youtu.be/vNa7-4aGxCI?si=zzn7weZoFpoR-FQl" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Add “1” to a number represented as a Linked List.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/add-1-to-a-number-represented-as-linked-list/1",
+            "URL1":"https://youtu.be/aXQWhbvT3w0?si=pmRFUBJ8iXcnCOtU" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Add two numbers represented by linked lists.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/add-two-numbers-represented-by-linked-lists/1",
+            "URL1":"https://youtu.be/HiRlTPf9aCg?si=wZXdF2i0xNR_QCrN" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Intersection of two Sorted Linked List.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/intersection-of-two-sorted-linked-lists/1",
+            "URL1":"https://youtu.be/3cLRaWPiIxo?si=6_5qlXNHc4VV8Vrl" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Intersection Point of two Linked Lists.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/intersection-point-in-y-shapped-linked-lists/1",
+            "URL1":"https://youtu.be/0DYoPz2Tpt4?si=za9karBSBQ34K0a1" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Merge Sort For Linked lists.[Very Important]",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/sort-a-linked-list/1",
+            "URL1":"https://youtu.be/rM5EEA_rbNY?si=L3g_m8ZzSTdz4diI" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Quicksort for Linked Lists.[Very Important]",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/quick-sort-on-linked-list/1",
+            "URL1":"https://youtu.be/q0crmlC7VdM?si=gC2yWcMk3YFrCHHz" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Find the middle Element of a linked list.",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/middle-of-the-linked-list/",
+            "URL1":"https://youtu.be/7LjQ57RqgEc?si=61T6aSMdljDLB5gm" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Check if a linked list is a circular linked list.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/circular-linked-list/1",
+            "URL1":"https://youtu.be/KAeK_xXSA_k?si=HKlthwBYHqJxccmg" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Split a Circular linked list into two halves.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/split-a-circular-linked-list-into-two-halves/1",
+            "URL1":"https://youtu.be/VdGIR91xlaM?si=pH9AUtVDl7D1zz6f" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Write a Program to check whether the Singly Linked list is a palindrome or not.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/check-if-linked-list-is-pallindrome/1",
+            "URL1":"https://youtu.be/ee-DuKtRNGw?si=dRFLpU6f4H7RPoAD" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Deletion from a Circular Linked List.",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/deletion-circular-linked-list/",
+            "URL1":"https://youtu.be/q8gdBn9RPeI?si=WJqSiT7cTDP5_evJ" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Reverse a Doubly Linked list.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/reverse-a-doubly-linked-list/1",
+            "URL1":"https://youtu.be/u3WUW2qe6ww?si=m2pdehNubWvl7NkG" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Find pairs with a given sum in a DLL.",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-pairs-given-sum-doubly-linked-list/",
+            "URL1":"https://youtu.be/YitR4dQsddE?si=WIqhEZiPsKfCnqJI" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Count triplets in a sorted DLL whose sum is equal to given value “X”.",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/count-triplets-sorted-doubly-linked-list-whose-sum-equal-given-value-x/",
+            "URL1":"https://youtu.be/jn2oe9GhkRg?si=2fXb1BSB5-JB250v" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Sort a “k”sorted Doubly Linked list.[Very IMP]",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/sort-k-sorted-doubly-linked-list/",
+            "URL1":"https://youtu.be/hgcKeJiBCc8?si=W0iAfAW6Hx_eD_Eo" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Rotate DoublyLinked list by N nodes.",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/rotate-doubly-linked-list-n-nodes/",
+            "URL1":"https://youtu.be/fUs3B2ti97M?si=lB9AFVz6Kgl5InoI" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Rotate a Doubly Linked list in group of Given Size.[Very IMP]",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/reverse-doubly-linked-list-groups-given-size/",
+            "URL1":"https://youtu.be/znQ8wJxnRao?si=QzRN3L2_sTJlXFon" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Can we reverse a linked list in less than O(n) ?",
+            "Done": "<->",
+            "URL": "<->",
+            "URL1":"https://youtu.be/ugQ2DVJJroc?si=H1f6cEAT6-tMwaf_" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Why Quicksort is preferred for. Arrays and Merge Sort for LinkedLists ?",
+            "Done": "<->",
+            "URL": "<->",
+            "URL1":"https://youtu.be/aV-GteiceZw?si=HZxKghS0Z7dmBulN" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Flatten a Linked List",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/flattening-a-linked-list/1",
+            "URL1":"https://youtu.be/ykelywHJWLg?si=ECqJy9nRpBKHuPJR" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Sort a LL of 0's, 1's and 2's",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/given-a-linked-list-of-0s-1s-and-2s-sort-it/1",
+            "URL1":"https://youtu.be/gRII7LhdJWc?si=F-REEGa1_klka1NL" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Clone a linked list with next and random pointer",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/clone-a-linked-list-with-next-and-random-pointer/1",
+            "URL1":"https://youtu.be/q570bKdrnlw?si=BfDIgOdf1Wvv5cQG" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Merge K sorted Linked list",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
+            "URL1":"https://youtu.be/1zktEppsdig?si=Vo4llTHu0y31MOaT" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Multiply 2 no. represented by LL",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/multiply-two-linked-lists/1",
+            "URL1":"https://youtu.be/N4_T7d9jLJc?si=5C_mH92Rmc_Yy61N" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Delete nodes which have a greater value on right side",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/delete-nodes-having-greater-value-on-right/1",
+            "URL1":"https://youtu.be/cI3P6L6xgpY?si=v-YvWvYEuPU182X5" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Segregate even and odd nodes in a Linked List",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/segregate-even-and-odd-nodes-in-a-linked-list/0",
+            "URL1":"https://youtu.be/Gm8gHjYyNwo?si=9OGBb2kKwSvrG0kq" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Program for n’th node from the end of a Linked List",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/nth-node-from-end-of-linked-list/1",
+            "URL1":"https://youtu.be/c11mfsquJLk?si=gtGMeRRNPB95PHzE" 
+        },
+        {
+            "Topic:": "LinkedList",
+            "Problem: ": "Find the first non-repeating character from a stream of characters",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+            "URL1":"https://youtu.be/gbASJJAvAGk?si=OPWoNPe-BrYbKind" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "level order traversal",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/level-order-traversal/1",
+            "URL1":"https://youtu.be/EoAsWbO7sqg?si=ddGTx_mk8l-fsD2s" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Reverse Level Order traversal",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/reverse-level-order-traversal/1",
+            "URL1":"https://youtu.be/t6IwIr8mPz0?si=F071mSx8VO-kYtkk" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Height of a tree",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/height-of-binary-tree/1",
+            "URL1":"https://youtu.be/hyAqgckHUiA?si=DaifEKRtLqAJkEyy" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Diameter of a tree",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/diameter-of-binary-tree/1",
+            "URL1":"https://youtu.be/Rezetez59Nk?si=0V-zoHcP5zz0FlT3" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Mirror of a tree",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/create-a-mirror-tree-from-the-given-binary-tree/",
+            "URL1":"https://youtu.be/lLdyqkdFNi0?si=gjCvxXuuRNn2zXTK" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Inorder Traversal of a tree both using recursion and Iteration",
+            "Done": "<->",
+            "URL": "https://www.techiedelight.com/inorder-tree-traversal-iterative-recursive/",
+            "URL1":"https://youtu.be/lxTGsVXjwvM?si=bxnZgbU4FQSYVANG" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Preorder Traversal of a tree both using recursion and Iteration",
+            "Done": "<->",
+            "URL": "https://www.techiedelight.com/preorder-tree-traversal-iterative-recursive/",
+            "URL1":"https://youtu.be/Bfqd8BsPVuw?si=tRV8ZjgVVzpdUO5P" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Postorder Traversal of a tree both using recursion and Iteration",
+            "Done": "<->",
+            "URL": "https://www.techiedelight.com/postorder-tree-traversal-iterative-recursive/",
+            "URL1":"https://youtu.be/NzIGLLwZBS8?si=yoOgBw7x-LsUuING" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Left View of a tree",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/left-view-of-binary-tree/1",
+            "URL1":"https://youtu.be/KV4mRzTjlAk?si=7vJTlc059yKAuYJP" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Right View of Tree",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/right-view-of-binary-tree/1",
+            "URL1":"https://youtu.be/KV4mRzTjlAk?si=7vJTlc059yKAuYJP" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Top View of a tree",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/top-view-of-binary-tree/1",
+            "URL1":"https://youtu.be/wTloJwckQTU?si=qsbbi6QopvO1CkXs" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Bottom View of a tree",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/bottom-view-of-binary-tree/1",
+            "URL1":"https://youtu.be/0FtVY6I4pB8?si=gshFNgUCEZ-tNliQ" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Zig-Zag traversal of a binary tree",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/zigzag-tree-traversal/1",
+            "URL1":"https://youtu.be/3OXWEdlIGl4?si=mu2GkOwThGE3511h" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Check if a tree is balanced or not",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/check-for-balanced-tree/1",
+            "URL1":"https://youtu.be/Yt50Jfbd8Po?si=BNchi3PMJ-XQ73Yl" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Diagonal Traversal of a Binary tree",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/diagonal-traversal-of-binary-tree/",
+            "URL1":"https://youtu.be/LhXPvhrhcIk?si=c5H_WbZ0YcifJ0sE" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Boundary traversal of a Binary tree",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/boundary-traversal-of-binary-tree/1",
+            "URL1":"https://youtu.be/0ca1nvR0be4?si=G0guQ5fNIaC3T2DV" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Construct Binary Tree from String with Bracket Representation",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/construct-binary-tree-from-string-with-bracket-representation/1",
+            "URL1":"https://youtu.be/hZnDglRWunk?si=lUh4nkwSdy1XPD5K" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Convert Binary tree into Doubly Linked List",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/binary-tree-to-dll/1",
+            "URL1":"https://youtu.be/nGNoTdav5bQ?si=bS390yfj3F9ns5pX" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Convert Binary tree into Sum tree",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/transform-to-sum-tree/1",
+            "URL1":"https://youtu.be/XpeA8w44xeo?si=CyE1r4iFygSWQGVK" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Construct Binary tree from Inorder and preorder traversal",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/construct-tree-1/1",
+            "URL1":"https://youtu.be/aZNaLrVebKQ?si=FkCedeiO9Tzhwrr5" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Find minimum swaps required to convert a Binary tree into BST",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/minimum-swap-required-convert-binary-tree-binary-search-tree/",
+            "URL1":"https://youtu.be/8AnntMKIWlQ?si=4HW8EtFO8lnxj7GV" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Check if Binary tree is Sum tree or not",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/sum-tree/1",
+            "URL1":"https://youtu.be/zqA8FwxXSdU?si=l_7UU-NYGbXh3LtV" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Check if all leaf nodes are at same level or not",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/leaf-at-same-level/1",
+            "URL1":"https://youtu.be/eNcS8-Blc3E?si=QaTGt9RHD2zlQCaV" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Check if a Binary Tree contains duplicate subtrees of size 2 or more [ IMP ]",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/duplicate-subtree-in-binary-tree/1",
+            "URL1":"https://youtu.be/_j7yb_nWFO8?si=3j9tFrkfz5ocegtU" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Check if 2 trees are mirror or not",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/check-mirror-in-n-ary-tree/0",
+            "URL1":"https://youtu.be/UG3OhQ5QRkk?si=eoryM0Dl0opecFmj" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Sum of Nodes on the Longest path from root to leaf node ",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/sum-of-the-longest-bloodline-of-a-tree/1",
+            "URL1":"https://youtu.be/NazCRmhUsPc?si=z6nhtgdOBiP3FX0r" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Check if given graph is tree or not.  [ IMP ]",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/check-given-graph-tree/",
+            "URL1":"https://youtu.be/NBSXzs8mrOQ?si=gdqlBzcZEih0biGP" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Find Largest subtree sum in a tree",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-largest-subtree-sum-tree/",
+            "URL1":"https://youtu.be/zm5CykXlxaA?si=j0gya8Z0_S-Ltbye" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Maximum Sum of nodes in Binary tree such that no two are adjacent ",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/maximum-sum-nodes-binary-tree-no-two-adjacent/",
+            "URL1":"https://youtu.be/ZdIrKO7gqok?si=F9B5c1tnBXLhaEav" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Print all \"K\" Sum paths in a Binary tree",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/print-k-sum-paths-binary-tree/",
+            "URL1":"https://youtu.be/_Ng486jJu80?si=EH-eKLjhp4bb-Hid" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Find LCA in a Binary tree",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-binary-tree/1",
+            "URL1":"https://youtu.be/cOjLyASDJcc?si=S8iaADAs7QzqS3WQ" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Find distance between 2 nodes in a Binary tree",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/min-distance-between-two-given-nodes-of-a-binary-tree/1",
+            "URL1":"https://youtu.be/6DraIPN_0no?si=rN9HBhUVEQ1lcFrE" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Kth Ancestor of node in a Binary tree",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/kth-ancestor-node-binary-tree-set-2/",
+            "URL1":"https://youtu.be/OgWC9U2q-MU?si=Qr1871-NHdPkKGs2" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Find all Duplicate subtrees in a Binary tree [ IMP ]",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/duplicate-subtrees/1",
+            "URL1":"https://youtu.be/_j7yb_nWFO8?si=8kV7DbiegjndIGUJ" 
+        },
+        {
+            "Topic:": "Binary Trees",
+            "Problem: ": "Tree Isomorphism Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/check-if-tree-is-isomorphic/1",
+            "URL1":"https://youtu.be/shSsw5EAp7g?si=90YvxOmLx8_0gdKY" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Fina a value in a BST",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/",
+            "URL1":"https://youtu.be/KcNt6v_56cc?si=xRa3f1KLItBnxgYx" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Deletion of a node in a BST",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/delete-node-in-a-bst/",
+            "URL1":"https://youtu.be/petKaikRiIA?si=Sq9XRihGRHt2r2MB" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Find min and max value in a BST",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/minimum-element-in-bst/1",
+            "URL1":"https://youtu.be/YrgyNRp86LY?si=zEMe4jFCoCh7v-Gk" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Find inorder successor and inorder predecessor in a BST",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/predecessor-and-successor/1",
+            "URL1":"https://youtu.be/lQIXz5NJYLs?si=QTiMi-ALd3pymv_g" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Check if a tree is a BST or not ",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/check-for-bst/1",
+            "URL1":"https://youtu.be/f-sj7I5oXEI?si=6eLYKud15RnZlHpX" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Populate Inorder successor of all nodes",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/populate-inorder-successor-for-all-nodes/1",
+            "URL1":"https://youtu.be/W25l6evkk_U?si=Y_Cdlaqcmnq0orEh" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Find LCA  of 2 nodes in a BST",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/lowest-common-ancestor-in-a-bst/1",
+            "URL1":"https://youtu.be/dX1YKKBiClo?si=bVCMqmWmPhejkoR4" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Construct BST from preorder traversal",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/construct-bst-from-given-preorder-traversa/",
+            "URL1":"https://youtu.be/UmJT3j26t1I?si=W1vHfJb6E3sDI7v4" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Convert Binary tree into BST",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/binary-tree-to-bst/1",
+            "URL1":"https://youtu.be/8AnntMKIWlQ?si=LeAUHyXbZOxyh3JZ" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Convert a normal BST into a Balanced BST",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/convert-normal-bst-balanced-bst/",
+            "URL1":"https://youtu.be/ceGBg3g18js?si=y_Joyp7GIg2SRVBS" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Merge two BST [ V.V.V>IMP ]",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/merge-two-balanced-binary-search-trees/",
+            "URL1":"https://youtu.be/LY5hbvFSJqM?si=BK12Y6uZ2Rr8eqxR" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Find Kth largest element in a BST",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/kth-largest-element-in-bst/1",
+            "URL1":"https://youtu.be/9TJYWh0adfk?si=H9vdDTcsujUATS35" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Find Kth smallest element in a BST",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/find-k-th-smallest-element-in-bst/1",
+            "URL1":"https://youtu.be/9TJYWh0adfk?si=oPxzlMpTWN7S7a6M" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Count pairs from 2 BST whose sum is equal to given value \"X\"",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/brothers-from-different-root/1",
+            "URL1":"https://youtu.be/ssL3sHwPeb4?si=KneJp6oTx6zYoWh7" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Find the median of BST in O(n) time and O(1) space",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-median-bst-time-o1-space/",
+            "URL1":"https://youtu.be/XIjko1AgEmM?si=kpuRBl9VTP5xrfJ6" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Count BST ndoes that lie in a given range",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/count-bst-nodes-that-lie-in-a-given-range/1",
+            "URL1":"https://youtu.be/Wt0h_RX35HY?si=iOUmAmtzqo517tqk" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Replace every element with the least greater element on its right",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/replace-every-element-with-the-least-greater-element-on-its-right/",
+            "URL1":"https://youtu.be/Mo6OOe9KZM0?si=kTrhr3w0dzZQfYrj" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Given \"n\" appointments, find the conflicting appointments",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/given-n-appointments-find-conflicting-appointments/",
+            "URL1":"https://youtu.be/OXSmfJ3NdbA?si=0rurwvBHxuUWeR6k" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Check preorder is valid or not",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/preorder-to-postorder/0",
+            "URL1":"https://youtu.be/GYdC4hQSo8A?si=SroE1ioJ4dHqQhyM" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Check whether BST contains Dead end",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/check-whether-bst-contains-dead-end/1",
+            "URL1":"https://youtu.be/eZMCRBrMznA?si=nP7uB1F9zP1i1nae" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Largest BST in a Binary Tree [ V.V.V.V.V IMP ]",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/largest-bst/1",
+            "URL1":"https://youtu.be/6nJ_fUcCTNU?si=-Y5m_bjetD3x54Nd" 
+        },
+        {
+            "Topic:": "Binary Search Trees",
+            "Problem: ": "Flatten BST to sorted list",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/flatten-bst-to-sorted-list-increasing-order/",
+            "URL1":"https://youtu.be/sWf7k1x9XR4?si=wD8U25adm4jBbY4a" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Activity Selection Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/activity-selection-1587115620/1/",
+            "URL1":"https://youtu.be/AsbDqOauGZE?si=BMIOsKINrJSE5JM-" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Job SequencingProblem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/job-sequencing-problem/0",
+            "URL1":"https://youtu.be/bID397v7ja4?si=8vh9RhwMXsUSAL56" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Huffman Coding",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/huffman-encoding/0",
+            "URL1":"https://youtu.be/0kNXhFIEd_w?si=FJPmGEVuGzKgvybT" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Water Connection Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/water-connection-problem/0",
+            "URL1":"https://youtu.be/UZG3-vZlFM4?si=iwRXcze6j_qXi71K" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Fractional Knapsack Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/fractional-knapsack/0",
+            "URL1":"https://youtu.be/m1p-eWxrt6g?si=G8M5Akl7AY838MlP" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Greedy Algorithm to find Minimum number of Coins",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/coin-piles/0",
+            "URL1":"https://youtu.be/KTaEeTWRwgg?si=GqAWN_TMvnpbCXtb" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Maximum trains for which stoppage can be provided",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/maximum-trains-stoppage-can-provided/",
+            "URL1":"https://youtu.be/Ls_AYoz1IX0?si=wvr7tnxaF1DihHSb" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Minimum Platforms Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/minimum-platforms/0",
+            "URL1":"https://youtu.be/Ls_AYoz1IX0?si=LXnQrJ4iCNEVGdmp" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Buy Maximum Stocks if i stocks can be bought on i-th day",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/buy-maximum-stocks-stocks-can-bought-th-day/",
+            "URL1":"https://youtu.be/lr5uTrdUQhM?si=egeIo0yW0nyg2rAK" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Find the minimum and maximum amount to buy all N candies",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/shop-in-candy-store/0",
+            "URL1":"https://youtu.be/2Sj6-5JFaAo?si=n9IjlibVztSIfya4" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Minimize Cash Flow among a given set of friends who have borrowed money from each other",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+            "URL1":"" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Minimum Cost to cut a board into squares",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/minimum-cost-cut-board-squares/",
+            "URL1":"https://youtu.be/9DckVBRzuQU?si=hz1WWp9yclQ2-Yii" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Check if it is possible to survive on Island",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/survival/",
+            "URL1":"https://youtu.be/Wq4Sn20dHr8?si=L8JRb5Tiz_nVVejs" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Find maximum meetings in one room",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-maximum-meetings-in-one-room/",
+            "URL1":"https://youtu.be/nSWWppCGYy8?si=nYXH1y6QYcXaBOXH" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Maximum product subset of an array",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/maximum-product-subset-array/",
+            "URL1":"https://youtu.be/QLUg9v5NJc0?si=PEPdwJRL2Pw7lKOe" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Maximize array sum after K negations",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/maximize-sum-after-k-negations/0",
+            "URL1":"https://youtu.be/8GDHYgbxTN4?si=1GgnJ6_X6zo-1Mwv" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Maximize the sum of arr[i]*i",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/maximize-arrii-of-an-array/0",
+            "URL1":"https://youtu.be/B32uiVnrME4?si=5gy8uvzkvPkgnSQx" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Maximum sum of absolute difference of an array",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/maximum-sum-absolute-difference-array/",
+            "URL1":"https://youtu.be/ap9rcWAw8bM?si=RpJdUTEKRrYcRCQ0" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Maximize sum of consecutive differences in a circular array",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/swap-and-maximize/0",
+            "URL1":"https://youtu.be/l1N1o7-Ufds?si=NqnX3KBIqAgnnZaI" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Minimum sum of absolute difference of pairs of two arrays",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/minimum-sum-absolute-difference-pairs-two-arrays/",
+            "URL1":"https://youtu.be/ggfGSOCB1mA?si=JsnvwXCZIIJchpbt" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Program for Shortest Job First (or SJF) CPU Scheduling",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/program-for-shortest-job-first-or-sjf-cpu-scheduling-set-1-non-preemptive/",
+            "URL1":"https://youtu.be/9PDUOx4MtKo?si=JEACW4p_32t5LkXc" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Program for Least Recently Used (LRU) Page Replacement algorithm",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/page-faults-in-lru/0",
+            "URL1":"https://youtu.be/b8Ju7HKtiXo?si=9PJkDR3JxWQ_Gq0j" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Smallest subset with sum greater than all other elements",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/smallest-subset-sum-greater-elements/",
+            "URL1":"https://youtu.be/YrdVt9TC6gA?si=7h-uck3wjuUyt5wL" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Chocolate Distribution Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/chocolate-distribution-problem/0",
+            "URL1":"https://youtu.be/T_2CATt_XyQ?si=bxKF2Hr9mJ2joDdx" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "DEFKIN -Defense of a Kingdom",
+            "Done": "<->",
+            "URL": "https://www.spoj.com/problems/DEFKIN/",
+            "URL1":"" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "DIEHARD -DIE HARD",
+            "Done": "<->",
+            "URL": "https://www.spoj.com/problems/DIEHARD/",
+            "URL1":"https://youtu.be/GqXlEbFVTXY?si=Nt9lMlYDAWW2LBbc" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "GERGOVIA -Wine trading in Gergovia",
+            "Done": "<->",
+            "URL": "https://www.spoj.com/problems/GERGOVIA/",
+            "URL1":"" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Picking Up Chicks",
+            "Done": "<->",
+            "URL": "https://www.spoj.com/problems/GCJ101BB/",
+            "URL1":"https://youtu.be/QXI5H0mg7j4?si=X8JMN1r8NdX3hfBD" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "CHOCOLA –Chocolate",
+            "Done": "<->",
+            "URL": "https://www.spoj.com/problems/CHOCOLA/",
+            "URL1":"https://youtu.be/9DckVBRzuQU?si=lqDLWKTg0m1xhct-" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "ARRANGE -Arranging Amplifiers",
+            "Done": "<->",
+            "URL": "https://www.spoj.com/problems/ARRANGE/",
+            "URL1":"" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "K Centers Problem",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/k-centers-problem-set-1-greedy-approximate-algorithm/",
+            "URL1":"https://youtu.be/Ia6ygR7il4o?si=dQO48o5JW4R6I2Jm" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Minimum Cost of ropes",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0",
+            "URL1":"https://youtu.be/2pH6E9th0EY?si=PFhYdwuKqmuNz4A6" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Find smallest number with given number of digits and sum of digits",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/smallest-number5829/1",
+            "URL1":"https://youtu.be/H7iqIjbWty4?si=cXUsuaMsT60Xwzyd" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Rearrange characters in a string such that no two adjacent are same",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+            "URL1":"https://youtu.be/v3f30xiaPVc?si=t0kCF7E9U2ktVY7I" 
+        },
+        {
+            "Topic:": "Greedy",
+            "Problem: ": "Find maximum sum possible equal sum of three stacks",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-maximum-sum-possible-equal-sum-three-stacks/",
+            "URL1":"https://youtu.be/hfA7y4XEAkw?si=GNIiC8WdGFqcHdqe" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Rat in a maze Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+            "URL1":"https://youtu.be/wjqSZy4pMT4?si=lmlAri0URTqexvHv" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Printing all solutions in N-Queen Problem",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/printing-solutions-n-queen-problem/",
+            "URL1":"https://youtu.be/i05Ju7AftcM?si=emLu_R7LJR58vPJH" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Word Break Problem using Backtracking",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/word-break-part-2/0",
+            "URL1":"https://youtu.be/_iIK7Gu7MNo?si=9k5qigC6TMQWEhH5" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Remove Invalid Parentheses",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/remove-invalid-parentheses/",
+            "URL1":"https://youtu.be/ubKTA5WAaXM?si=FWMwSZuAyaRTwT5i" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Sudoku Solver",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/solve-the-sudoku/0",
+            "URL1":"https://youtu.be/FWAIf_EVUKE?si=56N7BSbkI_OTehEn" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "m Coloring Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0",
+            "URL1":"https://youtu.be/wuVwUK25Rfc?si=3wAgpIZTXOj_5cLX" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Print all palindromic partitions of a string",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/given-a-string-print-all-possible-palindromic-partition/",
+            "URL1":"https://youtu.be/WBgsABoClE0?si=QQM-1m5UaK6qRwvH" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Subset Sum Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+            "URL1":"https://youtu.be/rYkfBRtMJr8?si=dcRSUa66zdIkiXmd" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "The Knight’s tour problem",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/the-knights-tour-problem-backtracking-1/",
+            "URL1":"https://youtu.be/9OV9M_xWR3k?si=CAq-mnVzn0ltGtOe" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Tug of War",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/tug-of-war/",
+            "URL1":"https://youtu.be/_XmTSBqknu0?si=R0DuaI4jqio21oWM" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Find shortest safe route in a path with landmines",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-shortest-safe-route-in-a-path-with-landmines/",
+            "URL1":"https://youtu.be/yRjTasFWB9E?si=THg2KvMNkk27z4sx" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Combinational Sum",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/combination-sum/0",
+            "URL1":"https://youtu.be/OyZFFqQtu98?si=4QRM6Qa0zevEDN8t" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Find Maximum number possible by doing at-most K swaps",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/largest-number-in-k-swaps/0",
+            "URL1":"https://youtu.be/uJlI6XSaXhk?si=-MhnK3RAdrfweEh9" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Print all permutations of a string ",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/permutations-of-a-given-string/0",
+            "URL1":"https://youtu.be/YK78FU5Ffjw?si=jpslzXxBxQvOcuNX" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Find if there is a path of more than k length from a source",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
+            "URL1":"https://youtu.be/oZYMOJHWI9w?si=mFItc4B9GmYq_4ua" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Longest Possible Route in a Matrix with Hurdles",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/longest-possible-route-in-a-matrix-with-hurdles/",
+            "URL1":"https://youtu.be/P2NkEFl37Hg?si=2pMbCDiu51rJU1LX" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Print all possible paths from top left to bottom right of a mXn matrix",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/print-all-possible-paths-from-top-left-to-bottom-right-of-a-mxn-matrix/",
+            "URL1":"https://youtu.be/sLuKQ9mZFz0?si=94bI1X3z2waz2vMk" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Partition of a set intoK subsets with equal sum",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/partition-array-to-k-subsets/1",
+            "URL1":"https://youtu.be/7win3dcgo3k?si=LLtfUFCXU0vMrC1g" 
+        },
+        {
+            "Topic:": "BackTracking",
+            "Problem: ": "Find the K-th Permutation Sequence of first N natural numbers",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-the-k-th-permutation-sequence-of-first-n-natural-numbers/",
+            "URL1":"https://youtu.be/wT7gcXLYoao?si=zaTx9L-uFaOwebaY" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": " Implement Stack from Scratch",
+            "Done": "<->",
+            "URL": "https://www.tutorialspoint.com/javaexamples/data_stack.htm",
+            "URL1":"https://youtu.be/_6COl6V6mng?si=qisTlQ5e9wF7j_ab" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": " Implement Queue from Scratch",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/queue-set-1introduction-and-array-implementation/",
+            "URL1":"https://youtu.be/3Et9MrMc02A?si=gIdRrMSUha9R1XQs" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Implement 2 stack in an array",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/implement-two-stacks-in-an-array/1",
+            "URL1":"https://youtu.be/TiYif1O1NTc?si=Ej3YFy8iHlQ0AQrB" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "find the middle element of a stack",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/design-a-stack-with-find-middle-operation/",
+            "URL1":"https://youtu.be/ua1bPxSV_H0?si=dFjZFa-QNOqbYUfT" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Implement \"N\" stacks in an Array",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/efficiently-implement-k-stacks-single-array/",
+            "URL1":"https://youtu.be/9x7TYLP3714?si=DtzVbP6ANkc4xhCC" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Check the expression has valid or Balanced parenthesis or not.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/parenthesis-checker/0",
+            "URL1":"https://youtu.be/aKTGpBeOeZg?si=xTLGxRwIuZx8kMDN" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Reverse a String using Stack",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/reverse-a-string-using-stack/1",
+            "URL1":"https://youtu.be/IWOcH6cjTpw?si=vLwPWbqIpOJyZUUx" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Design a Stack that supports getMin() in O(1) time and O(1) extra space.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/special-stack/1",
+            "URL1":"https://youtu.be/QTrNy-0Og7E?si=e6wj35CmN1Ewm16o" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Find the next Greater element",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/next-larger-element/0",
+            "URL1":"https://youtu.be/sDKpIO2HGq0?si=_iN2ADR2NTTdfTNR" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "The celebrity Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/the-celebrity-problem/1",
+            "URL1":"https://youtu.be/9u2BJfmWNEg?si=KwCs86yEs1Aawip1" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Arithmetic Expression evaluation",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/arithmetic-expression-evalution/",
+            "URL1":"https://youtu.be/UKuIw8cKKsc?si=7S1lQuokv9Nm8er9" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Evaluation of Postfix expression",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/evaluation-of-postfix-expression/0",
+            "URL1":"https://youtu.be/vtYzucrD7CM?si=EQT8s6pRkcchvSV2" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Implement a method to insert an element at its bottom without using any other data structure.",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/program-to-insert-an-element-at-the-bottom-of-a-stack/",
+            "URL1":"https://youtu.be/MutxOrRqQ18?si=VeQwjdr-gU-P0Gl-" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Reverse a stack using recursion",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/reverse-a-stack-using-recursion/",
+            "URL1":"https://youtu.be/vFP5MfBv8S0?si=GKrknsmP_AgbtiiD" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Sort a Stack using recursion",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/sort-a-stack/1",
+            "URL1":"https://youtu.be/XNAv8NrAwng?si=mkyXCmia_glPR1PY" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Merge Overlapping Intervals",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/overlapping-intervals/0",
+            "URL1":"https://youtu.be/IexN60k62jo?si=mJ7g6aB0icHy_jdI" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Largest rectangular Area in Histogram",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/maximum-rectangular-area-in-a-histogram/0",
+            "URL1":"https://youtu.be/vhUxKxiconE?si=_6pa_MonM9OGHrxW" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Length of the Longest Valid Substring",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/valid-substring0624/1",
+            "URL1":"https://youtu.be/oe4X8IaFDt0?si=hcRpZ84j5JIlwHP2" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Expression contains redundant bracket or not",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/expression-contains-redundant-bracket-not/",
+            "URL1":"https://youtu.be/zPu6t6S5pP0?si=QMcGHbCagpd8GxLp" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Implement Stack using Queue",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/stack-using-two-queues/1",
+            "URL1":"https://youtu.be/jDZQKzEtbYQ?si=jdTDJwt7HBMT_M_g" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Implement Stack using Deque",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/implement-stack-queue-using-deque/",
+            "URL1":"https://youtu.be/-vlXbnzEgng?si=bn67WeoDuusYvgHT" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Stack Permutations (Check if an array is stack permutation of other)",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/stack-permutations-check-if-an-array-is-stack-permutation-of-other/",
+            "URL1":"https://youtu.be/w53gHnGjk4Q?si=mXxVWmv25AZ9iRN6" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Implement Queue using Stack  ",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/queue-using-two-stacks/1",
+            "URL1":"https://youtu.be/mDcP7tLuBhc?si=yA_OArxO8O9NEZPm" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Implement \"n\" queue in an array",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/efficiently-implement-k-queues-single-array/",
+            "URL1":"https://www.youtube.com/live/9wewxa7HxTM?si=o5kx9Hc6ZHuH9QCV" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Implement a Circular queue",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/circular-queue-set-1-introduction-array-implementation/",
+            "URL1":"https://youtu.be/lPL-pmBm04Q?si=aZhmOzIz5327gIZV" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "LRU Cache Implementationa",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/lru-cache/1",
+            "URL1":"https://youtu.be/xDEuM5qa0zg?si=U0oQK0WAeaif8tUV" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Reverse a Queue using recursion",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/queue-reversal/1",
+            "URL1":"https://youtu.be/xxlcFYskVRQ?si=HchJBvLW7SSzT3LL" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Reverse the first “K” elements of a queue",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/reverse-first-k-elements-of-queue/1",
+            "URL1":"https://youtu.be/VECGnvhkh-s?si=JsmxUpiizjJjKhnP" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Interleave the first half of the queue with second half",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/interleave-first-half-queue-second-half/",
+            "URL1":"https://youtu.be/BNuXP58kAWk?si=J0LZgihvGZ83zS5N" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Find the first circular tour that visits all Petrol Pumps",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/circular-tour/1",
+            "URL1":"https://youtu.be/sxOr8sA4X9w?si=K-7Ske0f14pfUwqT" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Minimum time required to rot all oranges",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/rotten-oranges/0",
+            "URL1":"https://youtu.be/yf3oUhkvqA0?si=APeB-Oy-D_wt5Vtw" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Distance of nearest cell having 1 in a binary matrix",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/distance-of-nearest-cell-having-1/0",
+            "URL1":"https://youtu.be/7AhF1h1fGnk?si=mtLD8K1vmbYJbc6F" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "First negative integer in every window of size “k”",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/first-negative-integer-in-every-window-of-size-k/0",
+            "URL1":"https://youtu.be/Z5NHoo-KdxA?si=qwBp4XPjmckOLF4c" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Check if all levels of two trees are anagrams or not.",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/check-if-all-levels-of-two-trees-are-anagrams-or-not/",
+            "URL1":"https://youtu.be/HSBJux35U7o?si=TeLY_JBoMcbhT6_E" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Sum of minimum and maximum elements of all subarrays of size “k”.",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/sum-minimum-maximum-elements-subarrays-size-k/",
+            "URL1":"https://youtu.be/mUeaCLDdtnM?si=eB2arJl7HKcaadUI" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Minimum sum of squares of character counts in a given string after removing “k” characters.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/game-with-string/0",
+            "URL1":"https://youtu.be/n5XaFXQjlIY?si=rsZiIT_adVCD-ZOH" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Queue based approach or first non-repeating character in a stream.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/first-non-repeating-character-in-a-stream/0",
+            "URL1":"https://youtu.be/gbASJJAvAGk?si=k7ZG89Uai9L1WUOt" 
+        },
+        {
+            "Topic:": "Stacks & Queues",
+            "Problem: ": "Next Smaller Element",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/next-smaller-element/",
+            "URL1":"https://youtu.be/_RtghJnM1Qo?si=ZvWoGOw32K0aP_z9" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Implement a Maxheap/MinHeap using arrays and recursion.",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/building-heap-from-array/",
+            "URL1":"https://youtu.be/ywx-Onrdx4U?si=D5bHEksyIrV8zdrL" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Sort an Array using heap. (HeapSort)",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/heap-sort/",
+            "URL1":"https://youtu.be/UVW0NfG_YWA?si=Ssbpn_D_pT4tGmRw" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Maximum of all subarrays of size k.",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/sliding-window-maximum-maximum-of-all-subarrays-of-size-k/",
+            "URL1":"https://youtu.be/xFJXtB5vSmM?si=aCSKSm8hapESPFk1" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "“k” largest element in an array",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/k-largest-elements4206/1",
+            "URL1":"https://youtu.be/yAs3tONaf3s?si=UyM5uxVDxMpb7KU0" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Kth smallest and largest element in an unsorted array",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/kth-smallestlargest-element-unsorted-array/",
+            "URL1":"https://youtu.be/aXJ-p3Qa4TY?si=9-nbHrKhUX5SuMiE" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Merge “K” sorted arrays. [ IMP ]",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-arrays/1",
+            "URL1":"https://youtu.be/l8CuET0jlDU?si=9-yybJPSf_ANRNLI" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Merge 2 Binary Max Heaps",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/merge-two-binary-max-heap/0",
+            "URL1":"https://youtu.be/GvduQ_In6qA?si=q7uGMeLIIFfJeqcG" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Kth largest sum continuous subarrays",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/k-th-largest-sum-contiguous-subarray/",
+            "URL1":"https://youtu.be/Rb4jGawY0MA?si=4l8PW-gQXtqwfWQU" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Leetcode- reorganize strings",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/reorganize-string/",
+            "URL1":"https://youtu.be/D_jE64CJ5UE?si=_Mo9rTcxpx9q2XDu" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Merge “K” Sorted Linked Lists [V.IMP]",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/merge-k-sorted-linked-lists/1",
+            "URL1":"https://youtu.be/vhdmB3HKQdI?si=vwgA_O4sp_hdb_CZ" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Smallest range in “K” Lists",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/find-smallest-range-containing-elements-from-k-lists/1",
+            "URL1":"https://youtu.be/VIbaPmsRzCs?si=Bj1sFlQLP0tmmoEP" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Median in a stream of Integers",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/find-median-in-a-stream/0",
+            "URL1":"https://youtu.be/Yv2jzDzYlp8?si=n5GvdomSzLW3gKQ7" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Check if a Binary Tree is Heap",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/is-binary-tree-heap/1",
+            "URL1":"https://youtu.be/KKiItXfugSI?si=2ZYk8op80qs5YN4U" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Connect “n” ropes with minimum cost",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/minimum-cost-of-ropes/0",
+            "URL1":"https://youtu.be/Eb1A6nm_Nic?si=VZopX8TazZCjx8mS" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Convert BST to Min Heap",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/convert-bst-min-heap/",
+            "URL1":"https://youtu.be/KT46fMT3ALc?si=LdE9zy-QwvaeCyR3" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Convert min heap to max heap",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/convert-min-heap-to-max-heap/",
+            "URL1":"https://youtu.be/YYPSwiuDbYI?si=U3LuLqVFgUwLcrLI" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Rearrange characters in a string such that no two adjacent are same.",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/rearrange-characters/0",
+            "URL1":"https://youtu.be/sSDAN_WwNwU?si=RUUTAKPZhcrI2xWF" 
+        },
+        {
+            "Topic:": "Heap",
+            "Problem: ": "Minimum sum of two numbers formed from digits of an array",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/minimum-sum4058/1",
+            "URL1":"https://youtu.be/EROEvvVmOsQ?si=PAtXdU0tIwzu-C1s" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Create a Graph, print it (implemented code)",
+            "Done": "<->",
+            "URL": "https://1drv.ms/t/s!AqTOHFO77CqEiRua06v1PATyiFg5",
+            "URL1":"https://youtu.be/T-TthTLUsEc?si=MIcFV2KGv2iD_NfL" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Create a Graph (for practice)",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/print-adjacency-list-1587115620/1",
+            "URL1":"https://youtu.be/T-TthTLUsEc?si=vJnECc1pLIyMqAD1" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Implement BFS algorithm ",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/bfs-traversal-of-graph/1",
+            "URL1":"https://youtu.be/kgN5EnoXnII?si=lC1uODX4dtIplgpH" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Implement DFS Algo ",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/depth-first-traversal-for-a-graph/1",
+            "URL1":"https://youtu.be/0ql7lZS2qt0?si=mO6ElFrPXg_4G-oc" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Detect Cycle in Directed Graph using BFS/DFS Algo ",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-a-directed-graph/1",
+            "URL1":"https://youtu.be/GLxfoaZlRqs?si=DGo3LQ3JszDWEtS-" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Detect Cycle in UnDirected Graph using BFS/DFS Algo ",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/detect-cycle-in-an-undirected-graph/1",
+            "URL1":"https://youtu.be/BPlrALf1LDU?si=8MlfzfZTxpwePTwV" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Search in a Maze",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/rat-in-a-maze-problem/1",
+            "URL1":"https://youtu.be/rKo9MPe0c5A?si=JwoqXzyGAatlsO_C" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Minimum Step by Knight",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/steps-by-knight/0",
+            "URL1":"https://youtu.be/ce4vjUVfrhU?si=QzT0WPycPWisI-zR" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "flood fill algo",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/flood-fill/",
+            "URL1":"https://youtu.be/qcNTnDjSffg?si=PuDTwraiTzHKmBSR" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Clone a graph",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/clone-graph/",
+            "URL1":"https://youtu.be/jWf5F_shzho?si=JWdQSKugCyIcpImr" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Making wired Connections",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/number-of-operations-to-make-network-connected/",
+            "URL1":"https://youtu.be/gEK7eHce88g?si=1Moi7aebL9NMNSAX" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "word Ladder ",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/word-ladder/",
+            "URL1":"https://youtu.be/tRPda0rcf8E?si=3nmcDsC37vwqqT7Q" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Dijkstra algo",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/dijkstras-shortest-path-algorithm-greedy-algo-7/",
+            "URL1":"https://youtu.be/XEb7_z5dG3c?si=aLSrgfXcr4GntzKH" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Implement Topological Sort ",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/topological-sort/1",
+            "URL1":"https://youtu.be/73sneFXuTEg?si=c8Dwtzt8dFTqVR4L" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Minimum time taken by each job to be completed given by a Directed Acyclic Graph",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/minimum-time-taken-by-each-job-to-be-completed-given-by-a-directed-acyclic-graph/",
+            "URL1":"https://youtu.be/zvOIjamNGSw?si=StOnRLBJKDcR5dzJ" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Find whether it is possible to finish all tasks or not from given dependencies",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-whether-it-is-possible-to-finish-all-tasks-or-not-from-given-dependencies/",
+            "URL1":"https://youtu.be/mBLKHhdFdcw?si=9Bz9I9_MAMMkVCuo" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Find the no. of Islands",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/find-the-number-of-islands/1",
+            "URL1":"https://youtu.be/L2NShjXvUNM?si=11c6Hh12ujDYHUwd" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Given a sorted Dictionary of an Alien Language, find order of characters",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/alien-dictionary/1",
+            "URL1":"https://youtu.be/wMMwRK-w0r4?si=nltCCAmJSq7DFyvn" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Implement Kruksal’sAlgorithm",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/kruskals-minimum-spanning-tree-algorithm-greedy-algo-2/",
+            "URL1":"https://youtu.be/Ub-fJ-KoBQM?si=-DUp7l2UMWJ4MaEk" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Implement Prim’s Algorithm",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/prims-minimum-spanning-tree-mst-greedy-algo-5/",
+            "URL1":"https://youtu.be/xthRL0lcx2w?si=i3rmlywpMfZ1D-Td" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Total no. of Spanning tree in a graph",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/total-number-spanning-trees-graph/",
+            "URL1":"https://youtu.be/ZSPjZuZWCME?si=JQVY13xmH7uhBrWh" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Implement Bellman Ford Algorithm",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/negative-weight-cycle/0",
+            "URL1":"https://youtu.be/ijpVpsmpJtQ?si=AGSbM7dyop4NvznG" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Implement Floyd warshallAlgorithm",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/implementing-floyd-warshall/0",
+            "URL1":"https://youtu.be/YbY8cVwWAvw?si=8jjDKxid9WAWAk2j" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Travelling Salesman Problem",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/travelling-salesman-problem-set-1/",
+            "URL1":"https://youtu.be/JE0JE8ce1V0?si=0--vrp7aZ8WlXDkH" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Graph ColouringProblem",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/graph-coloring-applications/",
+            "URL1":"https://youtu.be/wuVwUK25Rfc?si=v1PrOO0VkbgqFaVM" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Snake and Ladders Problem",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/snakes-and-ladders/",
+            "URL1":"https://youtu.be/1pMNYQmtVVg?si=5hhp-2BRc3LG1pSG" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Find bridge in a graph",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/bridge-in-a-graph/",
+            "URL1":"https://youtu.be/qrAub5z8FeA?si=tphFHI0-C6IrdGXs" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Count Strongly connected Components(Kosaraju Algo)",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/strongly-connected-components-kosarajus-algo/1",
+            "URL1":"https://youtu.be/R6uoSjZ2imo?si=lEDCjdOojU1PpVFH" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Check whether a graph is Bipartite or Not",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/bipartite-graph/",
+            "URL1":"https://youtu.be/-vu34sct1g8?si=P4u2Nf-iHgUW8wTN" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Detect Negative cycle in a graph",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/detect-negative-cycle-graph-bellman-ford/",
+            "URL1":"https://youtu.be/75yC1vbS8S8?si=J1yhumosIpCf2XRc" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Longest path in a Directed Acyclic Graph",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-longest-path-directed-acyclic-graph/",
+            "URL1":"https://youtu.be/jdTnoCBSOVM?si=E8HklZh7j6JNdEiS" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Journey to the Moon",
+            "Done": "<->",
+            "URL": "https://www.hackerrank.com/challenges/journey-to-the-moon/problem",
+            "URL1":"" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Cheapest Flights Within K Stops",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/cheapest-flights-within-k-stops/description/",
+            "URL1":"https://youtu.be/IM1xOjamHA8?si=IbXGFJrW-KyX0SXW" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Oliver and the Game",
+            "Done": "<->",
+            "URL": "https://www.hackerearth.com/practice/algorithms/graphs/topological-sort/practice-problems/algorithm/oliver-and-the-game-3/",
+            "URL1":"https://youtu.be/5h1JYjin_4o?si=qwHrnU_u4W949yVd" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Water Jug problem using BFS",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/water-jug-problem-using-bfs/",
+            "URL1":"https://youtu.be/IZDyxrna9TA?si=6UPOUdjfsls7L7qY" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Find if there is a path of more thank length from a source",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-if-there-is-a-path-of-more-than-k-length-from-a-source/",
+            "URL1":"https://youtu.be/oZYMOJHWI9w?si=cgOlS5AjEz3AXBmU" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "M-ColouringProblem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/m-coloring-problem/0",
+            "URL1":"https://youtu.be/wuVwUK25Rfc?si=y4WzWUWGOAYjor2A" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Minimum edges to reverse o make path from source to destination",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/minimum-edges-reverse-make-path-source-destination/",
+            "URL1":"https://youtu.be/porShXfpPqA?si=KnL5L4S4STnEvYJH" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Paths to travel each nodes using each edge(Seven Bridges)",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/paths-travel-nodes-using-edgeseven-bridges-konigsberg/",
+            "URL1":"https://youtu.be/WY6Jsp3NxIk?si=q8sn4wCeAdMt33FM" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Vertex Cover Problem",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/vertex-cover-problem-set-1-introduction-approximate-algorithm-2/",
+            "URL1":"https://youtu.be/URHrL15xauQ?si=Rjk3i6oU6cKzLIkA" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Chinese Postman or Route Inspection",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/chinese-postman-route-inspection-set-1-introduction/",
+            "URL1":"https://youtu.be/g-2iW3WrEAE?si=lq6pfnJymrHY6zoA" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Number of Triangles in a Directed and Undirected Graph",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/number-of-triangles-in-directed-and-undirected-graphs/",
+            "URL1":"https://youtu.be/2Fb0kPngzMw?si=-uk5DTjtoo694bAG" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Minimise the cashflow among a given set of friends who have borrowed money from each other",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/minimize-cash-flow-among-given-set-friends-borrowed-money/",
+            "URL1":"https://youtu.be/cA8-mdRJuCI?si=AM8078m3zkHQamut" 
+        },
+        {
+            "Topic:": "Graph",
+            "Problem: ": "Two Clique Problem",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/two-clique-problem-check-graph-can-divided-two-cliques/",
+            "URL1":"https://youtu.be/cA8-mdRJuCI?si=2RxX34gx5zUJJ7zO" 
+        },
+        {
+            "Topic:": "Trie",
+            "Problem: ": "Construct a trie from scratch",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/trie-insert-and-search/",
+            "URL1":"https://youtu.be/soJgGe1CQHw?si=urK3qaPQQPmzxEMU" 
+        },
+        {
+            "Topic:": "Trie",
+            "Problem: ": "Find shortest unique prefix for every word in a given list",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/find-all-shortest-unique-prefixes-to-represent-each-word-in-a-given-list/",
+            "URL1":"https://youtu.be/CB-WeyCFjlc?si=W0_2ISlx_UYJjXyr" 
+        },
+        {
+            "Topic:": "Trie",
+            "Problem: ": "Word Break Problem | (Trie solution)",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/word-break-problem-trie-solution/",
+            "URL1":"https://youtu.be/_iIK7Gu7MNo?si=Mx7IDS8gMDe9US47" 
+        },
+        {
+            "Topic:": "Trie",
+            "Problem: ": "Given a sequence of words, print all anagrams together",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/k-anagrams-1/0",
+            "URL1":"https://youtu.be/K3hlxOhxn9I?si=8cml4JpPKgGf1Fxx" 
+        },
+        {
+            "Topic:": "Trie",
+            "Problem: ": "Implement a Phone Directory",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/phone-directory/0",
+            "URL1":"https://youtu.be/SK2S5lQegVg?si=M3D_GgfTEa_RzWbW" 
+        },
+        {
+            "Topic:": "Trie",
+            "Problem: ": "Print unique rows in a given boolean matrix",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/unique-rows-in-boolean-matrix/1",
+            "URL1":"https://youtu.be/MBGx1VORruM?si=H6N1NsRj5-rIv6F5" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Coin ChangeProblem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/coin-change2448/1",
+            "URL1":"https://youtu.be/-NTaXJ7BBXs?si=ij299gO_jtNS4NsT" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Knapsack Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/0-1-knapsack-problem/0",
+            "URL1":"https://youtu.be/xdPv2SZJLVI?si=a5tsO9noS496xSVS" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Binomial CoefficientProblem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/ncr1019/1",
+            "URL1":"https://youtu.be/jIb1W3ObIho?si=Py1zuz6dzIgOa6Bd" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Permutation CoefficientProblem",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/permutation-coefficient/",
+            "URL1":"https://youtu.be/jIb1W3ObIho?si=BQuQ3BliaekoaPtm" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Program for nth Catalan Number",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/program-nth-catalan-number/",
+            "URL1":"https://youtu.be/ox7fOk3HjlA?si=gfizHry-NA249J6s" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Matrix Chain Multiplication ",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/matrix-chain-multiplication-dp-8/",
+            "URL1":"https://youtu.be/-UPo_dzBw1c?si=jz1_rXIpAPHNewu3" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Edit Distance",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/edit-distance3702/1",
+            "URL1":"https://youtu.be/eMnyEDYGobA?si=hUY88s5KnyYMGXo2" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Subset Sum Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+            "URL1":"https://youtu.be/fWX9xDmIzRI?si=CszpOpjeKfltJCgy" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Friends Pairing Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/friends-pairing-problem5425/1",
+            "URL1":"https://youtu.be/wOtRnD0f7Yw?si=rCysv1fnmZ33aDlg" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Gold Mine Problem",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/gold-mine-problem/",
+            "URL1":"https://youtu.be/tQU4rkmPyV0?si=0OoPo51P4BE7LwEi" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Assembly Line SchedulingProblem",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/assembly-line-scheduling-dp-34/",
+            "URL1":"https://youtu.be/1_SRfUUTXEc?si=RUonOJpiVP_h4PN1" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Painting the Fenceproblem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/painting-the-fence3727/1",
+            "URL1":"https://youtu.be/7_C9kpXEgdQ?si=K4Szi3zAqjbDE681" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Maximize The Cut Segments",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/cutted-segments/0",
+            "URL1":"https://youtu.be/O0N4xn38Ncg?si=WH4lbTDXAnW4R1U1" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Longest Common Subsequence",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/longest-common-subsequence/0",
+            "URL1":"https://youtu.be/y1b8pObvndA?si=4MPL0yZAajCdQfNJ" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Longest Repeated Subsequence",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/longest-repeating-subsequence/0",
+            "URL1":"https://youtu.be/hbTaCmQGqLg?si=fy3R8zCUBKSE8Qty" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Longest Increasing Subsequence",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/longest-increasing-subsequence/0",
+            "URL1":"https://youtu.be/ZqG89Z-dKpI?si=ieoTESq9OC_J4NXQ" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Space Optimized Solution of LCS",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/space-optimized-solution-lcs/",
+            "URL1":"https://youtu.be/Iuw2nOvYW20?si=b6iQ8y8dQtdqB4GK" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "LCS (Longest Common Subsequence) of three strings",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/lcs-of-three-strings/0",
+            "URL1":"https://youtu.be/y1b8pObvndA?si=ADdPvZzJU1BoZbgc" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Maximum Sum Increasing Subsequence",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/maximum-sum-increasing-subsequence4749/1",
+            "URL1":"https://youtu.be/ekcwMsSIzVc?si=qFf8SFv_QGiA2R9b" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Count all subsequences having product less than K",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/count-subsequences-product-less-k/",
+            "URL1":"https://youtu.be/7rGxOMEBWKE?si=JGLjVHXzFDO18cBs" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Longest subsequence such that difference between adjacent is one",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/longest-subsequence-such-that-difference-between-adjacents-is-one4724/1",
+            "URL1":"https://youtu.be/opjyzmiTp1I?si=qAolAuDIR78Y4dDl" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Maximum subsequence sum such that no three are consecutive",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/maximum-subsequence-sum-such-that-no-three-are-consecutive/",
+            "URL1":"https://youtu.be/-FJinY9Yb-s?si=t7MTJ5UR1kD3cLJM" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Egg Dropping Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/egg-dropping-puzzle/0",
+            "URL1":"https://youtu.be/S49zeUjeUL0?si=oGM6r7fAK1CFHU2v" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Maximum Length Chain of Pairs",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/max-length-chain/1",
+            "URL1":"https://youtu.be/v0D3HtS8GAg?si=yAZm5nAUXpDXjjMQ" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Maximum size square sub-matrix with all 1s",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/largest-square-formed-in-a-matrix/0",
+            "URL1":"https://youtu.be/nZAyRZC8tko?si=0PAbPD_wwPjMUUFH" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Maximum sum of pairs with specific difference",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/pairs-with-specific-difference/0",
+            "URL1":"https://youtu.be/yDZGsjc007Y?si=nd0u7wVolET1TOb2" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Min Cost PathProblem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/path-in-matrix3805/1",
+            "URL1":"https://youtu.be/_rgTlyky1uQ?si=U3FWdoL8W6LieHLI" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Maximum difference of zeros and ones in binary string",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/maximum-difference-of-zeros-and-ones-in-binary-string4111/1",
+            "URL1":"https://youtu.be/tDdqQxd-nFw?si=9hDtrxJCPjx9ipTl" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Minimum number of jumps to reach end",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/minimum-number-of-jumps/0",
+            "URL1":"https://youtu.be/CqgK_qi4SKQ?si=iPcNrxmoKb3Fuia9" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Minimum cost to fill given weight in a bag",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/minimum-cost-to-fill-given-weight-in-a-bag1956/1",
+            "URL1":"https://youtu.be/skf0qDzSJsQ?si=mbGRQM3DfSSNOwVT" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Minimum removals from array to make max –min <= K",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/minimum-removals-array-make-max-min-k/",
+            "URL1":"https://youtu.be/C07FzNAUkLI?si=1fnHmjm1ErOuu9FK" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Longest Common Substring",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/longest-common-substring/0",
+            "URL1":"https://youtu.be/_wP9mWNPL5w?si=b_1NVqRb0Wtfn6gS" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Count number of ways to reacha given score in a game",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/reach-a-given-score/0",
+            "URL1":"https://youtu.be/LoKW5RkQ_1s?si=vr5WsFd28R28JUZf" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Count Balanced Binary Trees of Height h",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/bbt-counter/0",
+            "URL1":"https://youtu.be/pyO2FJE7G9o?si=q31Tc7waBsg9vEJ3" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "LargestSum Contiguous Subarray [V>V>V>V IMP ]",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0",
+            "URL1":"https://youtu.be/HCL4_bOd3-4?si=A3eeQN2Ql-OcsIES" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Smallest sum contiguous subarray",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/smallest-sum-contiguous-subarray/",
+            "URL1":"https://youtu.be/OiayyN7-L80?si=4uI9uW-Go8W5-cJQ" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Unbounded Knapsack (Repetition of items allowed)",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/knapsack-with-duplicate-items4201/1",
+            "URL1":"https://youtu.be/S1nStf-TM6c?si=qjZvNtdJd076S2qB" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Word Break Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/word-break/0",
+            "URL1":"https://youtu.be/XtIGGdrF67E?si=i1Y35F28Pp18HsXk" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Largest Independent Set Problem",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/largest-independent-set-problem-dp-26/",
+            "URL1":"https://youtu.be/x3zqD1kj_T0?si=1bGtceMgj1oTtxGq" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Partition problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/subset-sum-problem2014/1",
+            "URL1":"https://youtu.be/UmMh7xp07kY?si=oU5ZaXhSPcuRcZAr" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Longest Palindromic Subsequence",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/longest-palindromic-subsequence-dp-12/",
+            "URL1":"https://youtu.be/U095bJJtW3w?si=E96dcnhzDlkYm2tY" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Count All Palindromic Subsequence in a given String",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/count-palindromic-subsequences/1",
+            "URL1":"https://youtu.be/vlbA8oUxSV0?si=rOQx_KjVERiwjW_J" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Longest Palindromic Substring",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/longest-palindromic-substring/",
+            "URL1":"https://youtu.be/pVs1RjhmHwU?si=09-a-Nm_hcz5JFUA" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Longest alternating subsequence",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/longest-alternating-subsequence/0",
+            "URL1":"https://youtu.be/UogHvfQ3e18?si=k121Zp_D5UGEbUR0" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Weighted Job Scheduling",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/weighted-job-scheduling/",
+            "URL1":"https://youtu.be/V59YYFPN5KA?si=oAIASLZa1ZlVjFv6" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Coin game winner where every player has three choices",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/coin-game-winner-every-player-three-choices/",
+            "URL1":"https://youtu.be/yHM16Ln7eGM?si=s6ABK8eq5U8h01Dc" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Count Derangements (Permutation such that no element appears in its original position) [ IMPORTANT ]",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/count-derangements-permutation-such-that-no-element-appears-in-its-original-position/",
+            "URL1":"https://youtu.be/NW-BLDQHFXk?si=5YXfbG-7rhk-snwM" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Maximum profit by buying and selling a share at most twice [ IMP ]",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/maximum-profit-by-buying-and-selling-a-share-at-most-twice/",
+            "URL1":"https://youtu.be/excAOvwF_Wk?si=ceIGqFXjl6zPcDHh" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Optimal Strategy for a Game",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/optimal-strategy-for-a-game/0",
+            "URL1":"https://youtu.be/VwjKZQCaTC8?si=SbhiJNmcyP7uQQJh" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Optimal Binary Search Tree",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/optimal-binary-search-tree-dp-24/",
+            "URL1":"https://youtu.be/HnslzEs8dbY?si=y9ZUi27ICXcrWV5p" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Palindrome PartitioningProblem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/palindromic-patitioning4845/1",
+            "URL1":"https://youtu.be/Oi6a4O00n4U?si=ocAGV5Vq3M4sUAtX" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Word Wrap Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/word-wrap/0",
+            "URL1":"https://youtu.be/FVWAEzHSbRo?si=V28PR_UdEzMafhea" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Mobile Numeric Keypad Problem [ IMP ]",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/mobile-numeric-keypad5456/1",
+            "URL1":"https://youtu.be/xaKENHcJts4?si=y7yAAdWFqASvMjLj" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Boolean Parenthesization Problem",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/boolean-parenthesization/0",
+            "URL1":"https://youtu.be/JbRsM2X2_pg?si=J-tDYrp0OIlGbgel" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Largest rectangular sub-matrix whose sum is 0",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/largest-rectangular-sub-matrix-whose-sum-0/",
+            "URL1":"https://youtu.be/mKluyW4YFvs?si=d_zhjUBiqEU3UjNu" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Largest area rectangular sub-matrix with equal number of 1’s and 0’s [ IMP ]",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/largest-area-rectangular-sub-matrix-equal-number-1s-0s/",
+            "URL1":"https://youtu.be/ynkRKGFkX-A?si=GI-pRgYdhM482MME" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Maximum sum rectangle in a 2D matrix",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/maximum-sum-rectangle/0",
+            "URL1":"https://youtu.be/mKluyW4YFvs?si=_-0uhQ7_GVuW08E5" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Maximum profit by buying and selling a share at most k times",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/maximum-profit4657/1",
+            "URL1":"https://youtu.be/IV1dHbk5CDc?si=7VRraBbf6IR61V1D" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Find if a string is interleaved of two other strings",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/interleaved-strings/1",
+            "URL1":"https://youtu.be/jaQF6FSWYdE?si=G6hvIWnvN9ga6vk9" 
+        },
+        {
+            "Topic:": "Dynamic Programming",
+            "Problem: ": "Maximum Length of Pair Chain",
+            "Done": "<->",
+            "URL": "https://leetcode.com/problems/maximum-length-of-pair-chain/",
+            "URL1":"https://youtu.be/v0D3HtS8GAg?si=0-5iLRUBRFP3PAJN" 
+        },
+        {
+            "Topic:": "Bit Manipulation",
+            "Problem: ": "Count set bits in an integer",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/set-bits0143/1",
+            "URL1":"https://youtu.be/KJnhAUkxAho?si=I4MK58-20bCwYl4C" 
+        },
+        {
+            "Topic:": "Bit Manipulation",
+            "Problem: ": "Find the two non-repeating elements in an array of repeating elements",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1",
+            "URL1":"https://youtu.be/pnx5JA9LNM4?si=AqqeUl4rlixLiZ2S" 
+        },
+        {
+            "Topic:": "Bit Manipulation",
+            "Problem: ": "Count number of bits to be flipped to convert A to B",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/bit-difference/0",
+            "URL1":"https://youtu.be/PvM39qzSh3E?si=o7z0jCXTld2HoW3X" 
+        },
+        {
+            "Topic:": "Bit Manipulation",
+            "Problem: ": "Count total set bits in all numbers from 1 to n",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/count-total-set-bits/0",
+            "URL1":"https://youtu.be/g6OxU-hRGtY?si=8FmL3Bs-6r-78vKT" 
+        },
+        {
+            "Topic:": "Bit Manipulation",
+            "Problem: ": "Program to find whether a no is power of two",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/power-of-2/0",
+            "URL1":"https://youtu.be/I80Ovvi_nRU?si=8oYroXxwdqvCzMWR" 
+
+        },
+        {
+            "Topic:": "Bit Manipulation",
+            "Problem: ": "Find position of the only set bit",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/find-position-of-set-bit3706/1",
+            "URL1":"https://youtu.be/OcHP74l-qx8?si=KTOQWDXyAykpvtSr" 
+        },
+        {
+            "Topic:": "Bit Manipulation",
+            "Problem: ": "Copy set bits in a range",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/copy-set-bits-in-a-range/",
+            "URL1":"https://youtu.be/OcHP74l-qx8?si=KTOQWDXyAykpvtSr" 
+        },
+        {
+            "Topic:": "Bit Manipulation",
+            "Problem: ": "Divide two integers without using multiplication, division and mod operator",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/divide-two-integers-without-using-multiplication-division-mod-operator/",
+            "URL1":"https://youtu.be/k9Yxy-NhSTA?si=o3Jiaq-LHO8qfuo-" 
+        },
+        {
+            "Topic:": "Bit Manipulation",
+            "Problem: ": "Calculate square of a number without using *, / and pow()",
+            "Done": "<->",
+            "URL": "https://www.geeksforgeeks.org/calculate-square-of-a-number-without-using-and-pow/",
+            "URL1":"https://youtu.be/Rzra9HLoe0Q?si=7YUnt8yadI0Pm2ft" 
+        },
+        {
+            "Topic:": "Bit Manipulation",
+            "Problem: ": "Power Set",
+            "Done": "<->",
+            "URL": "https://practice.geeksforgeeks.org/problems/power-set4302/1",
+            "URL1":"https://youtu.be/3tpjp5h3M6Y?si=uSs1sNWmTOgFGjD_" 
+        }
+    ]
+}
